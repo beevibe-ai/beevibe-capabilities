@@ -1,0 +1,31 @@
+name: validate-pr
+
+# Runs on every PR that touches data/. Catches hallucinated boost-list
+# entries (404s), archived repos, and stale repos (>2yr no commits)
+# BEFORE they land on main, since main is what every beevibe instance
+# globally is reading from.
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "scripts/validate.ts"
+      - "package.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: corepack enable && corepack prepare pnpm@9 --activate
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Validate JSON shapes + verify boost-list entries on GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: pnpm validate

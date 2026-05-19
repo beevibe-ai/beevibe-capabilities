@@ -1,30 +1,12 @@
 {
-  "description": "Curated repos to boost in the discovery ranker for common goal families. Each entry lifts its repo_url by +20 points in the final ranking so the magic moment reliably fires for day-one use cases.",
-  "version": "1.0.0",
+  "description": "Curated repos to boost in find_repo's Tier 3 ranking. Each entry lifts its repo_url by +20 base plus +5 per extra keyword overlap (capped at +40) so the magic-moment ranker reliably fires on day-one use cases. Hand-audited — every entry must point at a real, actively-maintained repo with a clean sandbox-installable path. Keywords must be specific enough not to fire on unrelated goals.",
+  "version": "2.0.0",
   "entries": [
     {
       "repo_url": "https://github.com/jsvine/pdfplumber",
-      "goal_keywords": ["pdf", "extract", "table", "parse", "ocr"],
+      "goal_keywords": ["pdf", "extract", "table", "parse", "text"],
       "language": "python",
       "category": "data"
-    },
-    {
-      "repo_url": "https://github.com/yt-dlp/yt-dlp",
-      "goal_keywords": ["youtube", "video", "download", "audio", "mp3", "mp4"],
-      "language": "python",
-      "category": "media"
-    },
-    {
-      "repo_url": "https://github.com/microsoft/playwright",
-      "goal_keywords": ["screenshot", "browser", "scrape", "page", "headless", "web"],
-      "language": "javascript",
-      "category": "web"
-    },
-    {
-      "repo_url": "https://github.com/FFmpeg/FFmpeg",
-      "goal_keywords": ["video", "convert", "transcode", "audio", "ffmpeg", "codec"],
-      "language": "c",
-      "category": "media"
     },
     {
       "repo_url": "https://github.com/camelot-dev/camelot",
@@ -33,34 +15,70 @@
       "category": "data"
     },
     {
-      "repo_url": "https://github.com/nicowillis/spreadsheet-intelligence",
-      "goal_keywords": ["excel", "xlsx", "spreadsheet", "csv"],
-      "language": "python",
-      "category": "data"
+      "repo_url": "https://github.com/tesseract-ocr/tesseract",
+      "goal_keywords": ["ocr", "scan", "image", "handwritten", "tesseract"],
+      "language": "c",
+      "category": "vision"
     },
     {
-      "repo_url": "https://github.com/ageitgey/face_recognition",
-      "goal_keywords": ["face", "image", "recognize", "detect"],
+      "repo_url": "https://github.com/openai/whisper",
+      "goal_keywords": ["transcribe", "audio", "speech", "voice", "transcription"],
+      "language": "python",
+      "category": "audio"
+    },
+    {
+      "repo_url": "https://github.com/yt-dlp/yt-dlp",
+      "goal_keywords": ["youtube", "video", "download", "audio", "mp3", "mp4"],
+      "language": "python",
+      "category": "media"
+    },
+    {
+      "repo_url": "https://github.com/FFmpeg/FFmpeg",
+      "goal_keywords": ["video", "convert", "transcode", "audio", "ffmpeg", "codec"],
+      "language": "c",
+      "category": "media"
+    },
+    {
+      "repo_url": "https://github.com/python-pillow/Pillow",
+      "goal_keywords": ["image", "resize", "crop", "thumbnail", "png", "jpeg"],
       "language": "python",
       "category": "vision"
     },
     {
+      "repo_url": "https://github.com/jgm/pandoc",
+      "goal_keywords": ["markdown", "docx", "html", "epub", "pandoc", "document"],
+      "language": "haskell",
+      "category": "data"
+    },
+    {
+      "repo_url": "https://github.com/pandas-dev/pandas",
+      "goal_keywords": ["dataframe", "csv", "analyze", "pivot", "pandas"],
+      "language": "python",
+      "category": "data"
+    },
+    {
+      "repo_url": "https://github.com/microsoft/playwright",
+      "goal_keywords": ["screenshot", "browser", "headless", "playwright"],
+      "language": "javascript",
+      "category": "web"
+    },
+    {
+      "repo_url": "https://github.com/scrapy/scrapy",
+      "goal_keywords": ["scrape", "crawl", "spider", "scraping", "html"],
+      "language": "python",
+      "category": "web"
+    },
+    {
       "repo_url": "https://github.com/huggingface/transformers",
-      "goal_keywords": ["nlp", "sentiment", "classify", "summarize", "translate", "llm"],
+      "goal_keywords": ["nlp", "sentiment", "summarize", "translate", "llm", "embedding"],
       "language": "python",
       "category": "ml"
     },
     {
       "repo_url": "https://github.com/sherlock-project/sherlock",
-      "goal_keywords": ["username", "social", "find", "lookup", "profile"],
+      "goal_keywords": ["username", "social", "osint", "account", "profile"],
       "language": "python",
       "category": "osint"
-    },
-    {
-      "repo_url": "https://github.com/mozilla/geckodriver",
-      "goal_keywords": ["firefox", "browser", "selenium", "automation"],
-      "language": "rust",
-      "category": "web"
     }
   ]
 }

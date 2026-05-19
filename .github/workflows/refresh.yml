@@ -29,7 +29,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pnpm fetch-trending
 
-      - name: Validate JSON shapes
+      - name: Validate JSON shapes + verify boost-list entries on GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pnpm validate
 
       - name: Commit refreshed snapshots
