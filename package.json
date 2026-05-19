@@ -1,0 +1,17 @@
+{
+  "name": "beevibe-capabilities",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Community-maintained data files for beevibe's find_repo MCP tool",
+  "license": "Apache-2.0",
+  "type": "module",
+  "scripts": {
+    "fetch-trending": "tsx scripts/fetch-trending.ts",
+    "fetch-trending:dry": "DRY_RUN=1 tsx scripts/fetch-trending.ts",
+    "validate": "tsx scripts/validate.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.6.3"
+  }
+}

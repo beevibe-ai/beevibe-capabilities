@@ -1,0 +1,5 @@
+{
+  "description": "Community-promoted learned skills. Populated when a beevibe team approves a skill_outcome and the publish flow lands a PR here. Read by find_repo's Tier 1 with +30 score.",
+  "version": "1.0.0",
+  "skills": []
+}

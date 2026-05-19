@@ -1,0 +1,45 @@
+name: refresh-trending
+
+# Daily at 12:00 UTC. Tweak in the cron string if the timing collides
+# with GitHub's nightly maintenance window in your region.
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: corepack enable && corepack prepare pnpm@9 --activate
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Fetch trending repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: pnpm fetch-trending
+
+      - name: Validate JSON shapes
+        run: pnpm validate
+
+      - name: Commit refreshed snapshots
+        run: |
+          git config user.name "beevibe-bot"
+          git config user.email "bot@beevibe.ai"
+          git add data/trending-*.json
+          if git diff --cached --quiet; then
+            echo "No trending changes today."
+            exit 0
+          fi
+          git commit -m "chore(trending): refresh snapshots ($(date -u +'%Y-%m-%d'))"
+          git push

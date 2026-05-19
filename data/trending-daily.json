@@ -1,0 +1,277 @@
+{
+  "fetched_at": "2026-05-19T18:49:42.590Z",
+  "period": "daily",
+  "source": "github-search:pushed:>2026-05-17 stars:>100 sort:stars-desc",
+  "repos": [
+    {
+      "repo_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 445154,
+      "rank": 1
+    },
+    {
+      "repo_url": "https://github.com/EbookFoundation/free-programming-books",
+      "owner": "EbookFoundation",
+      "name": "free-programming-books",
+      "description": ":books: Freely available programming books",
+      "language": "Python",
+      "stars": 388579,
+      "rank": 2
+    },
+    {
+      "repo_url": "https://github.com/openclaw/openclaw",
+      "owner": "openclaw",
+      "name": "openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "language": "TypeScript",
+      "stars": 373230,
+      "rank": 3
+    },
+    {
+      "repo_url": "https://github.com/nilbuild/developer-roadmap",
+      "owner": "nilbuild",
+      "name": "developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript",
+      "stars": 355080,
+      "rank": 4
+    },
+    {
+      "repo_url": "https://github.com/vinta/awesome-python",
+      "owner": "vinta",
+      "name": "awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "language": "Python",
+      "stars": 298542,
+      "rank": 5
+    },
+    {
+      "repo_url": "https://github.com/facebook/react",
+      "owner": "facebook",
+      "name": "react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 245139,
+      "rank": 6
+    },
+    {
+      "repo_url": "https://github.com/torvalds/linux",
+      "owner": "torvalds",
+      "name": "linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 233728,
+      "rank": 7
+    },
+    {
+      "repo_url": "https://github.com/TheAlgorithms/Python",
+      "owner": "TheAlgorithms",
+      "name": "Python",
+      "description": "All Algorithms implemented in Python",
+      "language": "Python",
+      "stars": 221201,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/tensorflow/tensorflow",
+      "owner": "tensorflow",
+      "name": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 195180,
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/ultraworkers/claw-code",
+      "owner": "ultraworkers",
+      "name": "claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+      "language": "Rust",
+      "stars": 192003,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 188716,
+      "rank": 11
+    },
+    {
+      "repo_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "owner": "ohmyzsh",
+      "name": "ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "language": "Shell",
+      "stars": 187133,
+      "rank": 12
+    },
+    {
+      "repo_url": "https://github.com/affaan-m/ECC",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 187107,
+      "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/microsoft/vscode",
+      "owner": "microsoft",
+      "name": "vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": 185102,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "owner": "Significant-Gravitas",
+      "name": "AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": 184429,
+      "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/flutter/flutter",
+      "owner": "flutter",
+      "name": "flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": 176387,
+      "rank": 16
+    },
+    {
+      "repo_url": "https://github.com/github/gitignore",
+      "owner": "github",
+      "name": "gitignore",
+      "description": "A collection of useful .gitignore templates",
+      "language": null,
+      "stars": 174007,
+      "rank": 17
+    },
+    {
+      "repo_url": "https://github.com/avelino/awesome-go",
+      "owner": "avelino",
+      "name": "awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": 173074,
+      "rank": 18
+    },
+    {
+      "repo_url": "https://github.com/ollama/ollama",
+      "owner": "ollama",
+      "name": "ollama",
+      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "stars": 171751,
+      "rank": 19
+    },
+    {
+      "repo_url": "https://github.com/anomalyco/opencode",
+      "owner": "anomalyco",
+      "name": "opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 162614,
+      "rank": 20
+    },
+    {
+      "repo_url": "https://github.com/f/prompts.chat",
+      "owner": "f",
+      "name": "prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "stars": 162535,
+      "rank": 21
+    },
+    {
+      "repo_url": "https://github.com/huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "language": "Python",
+      "stars": 160782,
+      "rank": 22
+    },
+    {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 157792,
+      "rank": 23
+    },
+    {
+      "repo_url": "https://github.com/Snailclimb/JavaGuide",
+      "owner": "Snailclimb",
+      "name": "JavaGuide",
+      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "language": "JavaScript",
+      "stars": 155771,
+      "rank": 24
+    },
+    {
+      "repo_url": "https://github.com/langflow-ai/langflow",
+      "owner": "langflow-ai",
+      "name": "langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "language": "Python",
+      "stars": 148520,
+      "rank": 25
+    },
+    {
+      "repo_url": "https://github.com/Genymobile/scrcpy",
+      "owner": "Genymobile",
+      "name": "scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 141992,
+      "rank": 26
+    },
+    {
+      "repo_url": "https://github.com/langgenius/dify",
+      "owner": "langgenius",
+      "name": "dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "language": "TypeScript",
+      "stars": 141907,
+      "rank": 27
+    },
+    {
+      "repo_url": "https://github.com/vercel/next.js",
+      "owner": "vercel",
+      "name": "next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": 139538,
+      "rank": 28
+    },
+    {
+      "repo_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": null,
+      "stars": 137845,
+      "rank": 29
+    },
+    {
+      "repo_url": "https://github.com/open-webui/open-webui",
+      "owner": "open-webui",
+      "name": "open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "language": "Python",
+      "stars": 137781,
+      "rank": 30
+    }
+  ]
+}
