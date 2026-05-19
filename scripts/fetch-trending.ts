@@ -95,6 +95,12 @@ function isSpam(desc: string | null | undefined, name: string): boolean {
   return SPAM_PATTERNS.some((re) => re.test(text));
 }
 
+/** Drop repos whose description self-describes as such — not tools. */
+const FILTERED_DESCRIPTION_PATTERN = /\bpropaganda\b/i;
+function isFilteredOutContent(desc: string | null | undefined): boolean {
+  return !!desc && FILTERED_DESCRIPTION_PATTERN.test(desc);
+}
+
 async function fetchPeriod(period: Period): Promise<TrendingSnapshot> {
   const ossPeriod = OSS_INSIGHT_PERIOD[period];
   const url = `https://api.ossinsight.io/v1/trends/repos/?period=${ossPeriod}&language=All`;
@@ -120,6 +126,7 @@ async function fetchPeriod(period: Period): Promise<TrendingSnapshot> {
     if (!owner || !name) continue;
     const desc = row.description ?? null;
     if (isSpam(desc, name)) continue;
+    if (isFilteredOutContent(desc)) continue;
     const starsGained = typeof row.stars === "number" ? row.stars : parseInt(String(row.stars), 10);
     if (!Number.isFinite(starsGained) || starsGained <= 0) continue;
     repos.push({
