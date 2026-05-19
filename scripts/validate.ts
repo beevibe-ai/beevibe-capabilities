@@ -27,7 +27,8 @@ interface TrendingRepo {
   name: string;
   description: string | null;
   language: string | null;
-  stars: number;
+  /** Stars GAINED in the period — not lifetime stars. */
+  stars_gained: number;
   rank: number;
 }
 interface TrendingSnapshot {
@@ -85,7 +86,7 @@ async function validateTrending(path: string, expectedPeriod: TrendingSnapshot["
   if (!Array.isArray(raw.repos)) return;
   raw.repos.forEach((r, i) => {
     check(isGithubUrl(r.repo_url), `${path}#repos[${i}]: invalid repo_url`);
-    check(typeof r.stars === "number" && r.stars >= 0, `${path}#repos[${i}]: stars must be ≥0`);
+    check(typeof r.stars_gained === "number" && r.stars_gained >= 0, `${path}#repos[${i}]: stars_gained must be ≥0`);
     check(typeof r.rank === "number" && r.rank === i + 1, `${path}#repos[${i}]: rank must equal ${i + 1}`);
   });
 }
