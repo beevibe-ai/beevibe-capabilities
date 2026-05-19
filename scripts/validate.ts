@@ -1,7 +1,7 @@
 /**
  * validate.ts — sanity-checks the JSON files in data/ before commit.
  * Used by both the GitHub Actions cron (so a malformed trending fetch
- * doesn't land in main) and PR contributors editing boost-list.json
+ * doesn't land in main) and PR contributors editing registry.json
  * by hand.
  *
  * Exits 0 on success, 1 on any error. Prints the file + reason per
@@ -10,18 +10,6 @@
 import { readFile } from "node:fs/promises";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-
-interface BoostEntry {
-  repo_url: string;
-  goal_keywords: string[];
-  language: string;
-  category: string;
-}
-interface BoostList {
-  description?: string;
-  version: string;
-  entries: BoostEntry[];
-}
 
 interface RegistrySkill {
   repo_url: string;
@@ -65,72 +53,6 @@ function isGithubUrl(s: unknown): boolean {
   }
 }
 
-async function validateBoostList(path: string): Promise<void> {
-  const raw = JSON.parse(await readFile(path, "utf8")) as BoostList;
-  check(typeof raw.version === "string", `${path}: missing version`);
-  check(Array.isArray(raw.entries), `${path}: entries must be array`);
-  if (!Array.isArray(raw.entries)) return;
-  raw.entries.forEach((e, i) => {
-    check(isGithubUrl(e.repo_url), `${path}#entries[${i}]: invalid repo_url ${e.repo_url}`);
-    check(
-      Array.isArray(e.goal_keywords) && e.goal_keywords.length > 0,
-      `${path}#entries[${i}]: goal_keywords must be non-empty array`,
-    );
-    check(typeof e.language === "string", `${path}#entries[${i}]: language required`);
-    check(typeof e.category === "string", `${path}#entries[${i}]: category required`);
-  });
-
-  // Live check: each curated repo must exist on GitHub. Catches
-  // hallucinated entries (e.g. nicowillis/spreadsheet-intelligence,
-  // which we found in v1.0.0 of this file and didn't exist). Auth via
-  // GITHUB_TOKEN when present — strict-skip if not set, so contributors
-  // editing the JSON without a token still get the structural checks
-  // above (the cron job always has a token).
-  const token = process.env.GITHUB_TOKEN;
-  if (!token) {
-    console.warn(
-      "[validate] GITHUB_TOKEN not set — skipping live repo existence checks. " +
-        "Set it to verify boost-list entries hit real repos.",
-    );
-    return;
-  }
-  for (const [i, entry] of raw.entries.entries()) {
-    const slug = entry.repo_url.replace(/^https:\/\/github\.com\//, "").replace(/\/$/, "");
-    try {
-      const res = await fetch(`https://api.github.com/repos/${slug}`, {
-        headers: {
-          Authorization: `token ${token}`,
-          Accept: "application/vnd.github+json",
-          "User-Agent": "beevibe-capabilities/validate",
-        },
-      });
-      if (res.status === 404) {
-        errors.push(`${path}#entries[${i}]: ${entry.repo_url} returns 404 (repo does not exist)`);
-        continue;
-      }
-      if (!res.ok) {
-        console.warn(`[validate] ${slug} returned ${res.status}; skipping existence check`);
-        continue;
-      }
-      const data = (await res.json()) as { archived?: boolean; pushed_at?: string };
-      if (data.archived) {
-        errors.push(`${path}#entries[${i}]: ${entry.repo_url} is archived — pick an active alternative`);
-      }
-      if (data.pushed_at) {
-        const lastPush = new Date(data.pushed_at).getTime();
-        const ageDays = (Date.now() - lastPush) / 86_400_000;
-        if (ageDays > 730) {
-          // 2 years — generous threshold but catches truly abandoned repos
-          errors.push(
-            `${path}#entries[${i}]: ${entry.repo_url} last pushed ${Math.floor(ageDays)} days ago (likely abandoned)`,
-          );
-        }
-      }
-    } catch (err) {
-      console.warn(`[validate] ${slug} fetch failed: ${(err as Error).message}; skipping`);
-    }
-  }
-}
 
 async function validateRegistry(path: string): Promise<void> {
   const raw = JSON.parse(await readFile(path, "utf8")) as Registry;
@@ -171,7 +93,6 @@ async function validateTrending(path: string, expectedPeriod: TrendingSnapshot["
 async function main(): Promise<void> {
   const repoRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
   const dataDir = join(repoRoot, "data");
-  await validateBoostList(join(dataDir, "boost-list.json"));
   await validateRegistry(join(dataDir, "registry.json"));
   await validateTrending(join(dataDir, "trending-daily.json"), "daily");
   await validateTrending(join(dataDir, "trending-weekly.json"), "weekly");
