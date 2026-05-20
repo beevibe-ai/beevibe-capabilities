@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-05-19T20:36:54.203Z",
+  "fetched_at": "2026-05-20T14:33:06.895Z",
   "period": "weekly",
   "source": "oss-insight:past_week",
   "repos": [
-    {
-      "repo_url": "https://github.com/mattpocock/skills",
-      "owner": "mattpocock",
-      "name": "skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_gained": 1489,
-      "rank": 1
-    },
     {
       "repo_url": "https://github.com/tinyhumansai/openhuman",
       "owner": "tinyhumansai",
       "name": "openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_gained": 1330,
+      "stars_gained": 1403,
+      "rank": 1
+    },
+    {
+      "repo_url": "https://github.com/mattpocock/skills",
+      "owner": "mattpocock",
+      "name": "skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_gained": 1421,
       "rank": 2
     },
     {
@@ -27,17 +27,8 @@
       "name": "andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_gained": 947,
+      "stars_gained": 992,
       "rank": 3
-    },
-    {
-      "repo_url": "https://github.com/CloakHQ/CloakBrowser",
-      "owner": "CloakHQ",
-      "name": "CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "language": "Python",
-      "stars_gained": 713,
-      "rank": 4
     },
     {
       "repo_url": "https://github.com/Imbad0202/academic-research-skills",
@@ -45,7 +36,16 @@
       "name": "academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_gained": 569,
+      "stars_gained": 609,
+      "rank": 4
+    },
+    {
+      "repo_url": "https://github.com/CloakHQ/CloakBrowser",
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars_gained": 657,
       "rank": 5
     },
     {
@@ -54,7 +54,7 @@
       "name": "agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars_gained": 647,
+      "stars_gained": 614,
       "rank": 6
     },
     {
@@ -63,35 +63,8 @@
       "name": "RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_gained": 656,
+      "stars_gained": 648,
       "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/anthropics/claude-for-legal",
-      "owner": "anthropics",
-      "name": "claude-for-legal",
-      "description": "A suite of plugins for legal workflows",
-      "language": "Python",
-      "stars_gained": 628,
-      "rank": 8
-    },
-    {
-      "repo_url": "https://github.com/supertone-inc/supertonic",
-      "owner": "supertone-inc",
-      "name": "supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "language": "Swift",
-      "stars_gained": 522,
-      "rank": 9
-    },
-    {
-      "repo_url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "owner": "Hmbown",
-      "name": "DeepSeek-TUI",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "language": "Rust",
-      "stars_gained": 537,
-      "rank": 10
     },
     {
       "repo_url": "https://github.com/colbymchenry/codegraph",
@@ -99,7 +72,34 @@
       "name": "codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_gained": 393,
+      "stars_gained": 465,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/anthropics/claude-for-legal",
+      "owner": "anthropics",
+      "name": "claude-for-legal",
+      "description": "A suite of plugins for legal workflows",
+      "language": "Python",
+      "stars_gained": 568,
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/supertone-inc/supertonic",
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars_gained": 472,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "owner": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars_gained": 479,
       "rank": 11
     },
     {
@@ -108,7 +108,7 @@
       "name": "scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
-      "stars_gained": 379,
+      "stars_gained": 384,
       "rank": 12
     },
     {
@@ -117,16 +117,16 @@
       "name": "financial-services",
       "description": "",
       "language": "Python",
-      "stars_gained": 368,
+      "stars_gained": 339,
       "rank": 13
     },
     {
-      "repo_url": "https://github.com/neilsonnn/image-blaster",
-      "owner": "neilsonnn",
-      "name": "image-blaster",
-      "description": "An image-to-world skillset for Claude.",
-      "language": "TypeScript",
-      "stars_gained": 347,
+      "repo_url": "https://github.com/vercel-labs/zero",
+      "owner": "vercel-labs",
+      "name": "zero",
+      "description": "The programming language for agents",
+      "language": "C",
+      "stars_gained": 331,
       "rank": 14
     },
     {
@@ -135,35 +135,17 @@
       "name": "TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "language": "TypeScript",
-      "stars_gained": 345,
+      "stars_gained": 359,
       "rank": 15
     },
     {
-      "repo_url": "https://github.com/decolua/9router",
-      "owner": "decolua",
-      "name": "9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "language": "JavaScript",
-      "stars_gained": 301,
+      "repo_url": "https://github.com/neilsonnn/image-blaster",
+      "owner": "neilsonnn",
+      "name": "image-blaster",
+      "description": "An image-to-world skillset for Claude.",
+      "language": "TypeScript",
+      "stars_gained": 356,
       "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/vercel-labs/zero",
-      "owner": "vercel-labs",
-      "name": "zero",
-      "description": "The programming language for agents",
-      "language": "C",
-      "stars_gained": 285,
-      "rank": 17
-    },
-    {
-      "repo_url": "https://github.com/addyosmani/agent-skills",
-      "owner": "addyosmani",
-      "name": "agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_gained": 309,
-      "rank": 18
     },
     {
       "repo_url": "https://github.com/rmyndharis/OpenWA",
@@ -171,7 +153,25 @@
       "name": "OpenWA",
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
-      "stars_gained": 222,
+      "stars_gained": 259,
+      "rank": 17
+    },
+    {
+      "repo_url": "https://github.com/decolua/9router",
+      "owner": "decolua",
+      "name": "9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars_gained": 296,
+      "rank": 18
+    },
+    {
+      "repo_url": "https://github.com/HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars_gained": 268,
       "rank": 19
     },
     {
@@ -180,25 +180,25 @@
       "name": "nature-skills",
       "description": "符合nature论文学术表达和科研绘图的Skill",
       "language": "Python",
-      "stars_gained": 294,
+      "stars_gained": 299,
       "rank": 20
     },
     {
-      "repo_url": "https://github.com/floci-io/floci",
-      "owner": "floci-io",
-      "name": "floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "language": "Java",
-      "stars_gained": 322,
+      "repo_url": "https://github.com/rtk-ai/rtk",
+      "owner": "rtk-ai",
+      "name": "rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "stars_gained": 287,
       "rank": 21
     },
     {
-      "repo_url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "owner": "Anil-matcha",
-      "name": "Open-Generative-AI",
-      "description": "Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "language": "JavaScript",
-      "stars_gained": 297,
+      "repo_url": "https://github.com/addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_gained": 289,
       "rank": 22
     },
     {
@@ -207,17 +207,8 @@
       "name": "easy-vibe",
       "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
       "language": "JavaScript",
-      "stars_gained": 266,
+      "stars_gained": 276,
       "rank": 23
-    },
-    {
-      "repo_url": "https://github.com/yikart/AiToEarn",
-      "owner": "yikart",
-      "name": "AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "stars_gained": 315,
-      "rank": 24
     },
     {
       "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
@@ -225,35 +216,17 @@
       "name": "daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
       "language": "Python",
-      "stars_gained": 176,
+      "stars_gained": 174,
+      "rank": 24
+    },
+    {
+      "repo_url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "owner": "Anil-matcha",
+      "name": "Open-Generative-AI",
+      "description": "Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars_gained": 295,
       "rank": 25
-    },
-    {
-      "repo_url": "https://github.com/rtk-ai/rtk",
-      "owner": "rtk-ai",
-      "name": "rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "stars_gained": 283,
-      "rank": 26
-    },
-    {
-      "repo_url": "https://github.com/HKUDS/CLI-Anything",
-      "owner": "HKUDS",
-      "name": "CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "stars_gained": 236,
-      "rank": 27
-    },
-    {
-      "repo_url": "https://github.com/hugohe3/ppt-master",
-      "owner": "hugohe3",
-      "name": "ppt-master",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
-      "language": "Python",
-      "stars_gained": 268,
-      "rank": 28
     },
     {
       "repo_url": "https://github.com/debpalash/OmniVoice-Studio",
@@ -261,8 +234,17 @@
       "name": "OmniVoice-Studio",
       "description": "The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App",
       "language": "Python",
-      "stars_gained": 240,
-      "rank": 29
+      "stars_gained": 249,
+      "rank": 26
+    },
+    {
+      "repo_url": "https://github.com/floci-io/floci",
+      "owner": "floci-io",
+      "name": "floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "language": "Java",
+      "stars_gained": 267,
+      "rank": 27
     },
     {
       "repo_url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
@@ -270,17 +252,26 @@
       "name": "qiaomu-anything-to-notebooklm",
       "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
       "language": "Python",
-      "stars_gained": 248,
-      "rank": 30
+      "stars_gained": 252,
+      "rank": 28
     },
     {
-      "repo_url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "owner": "AIDC-AI",
-      "name": "Pixelle-Video",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "repo_url": "https://github.com/yikart/AiToEarn",
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_gained": 285,
+      "rank": 29
+    },
+    {
+      "repo_url": "https://github.com/hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
       "language": "Python",
-      "stars_gained": 233,
-      "rank": 31
+      "stars_gained": 248,
+      "rank": 30
     },
     {
       "repo_url": "https://github.com/datawhalechina/hello-agents",
@@ -288,7 +279,16 @@
       "name": "hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
-      "stars_gained": 251,
+      "stars_gained": 231,
+      "rank": 31
+    },
+    {
+      "repo_url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "owner": "AIDC-AI",
+      "name": "Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars_gained": 224,
       "rank": 32
     },
     {
@@ -297,7 +297,7 @@
       "name": "gbrain",
       "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
       "language": "TypeScript",
-      "stars_gained": 200,
+      "stars_gained": 195,
       "rank": 33
     },
     {
@@ -306,16 +306,16 @@
       "name": "coral",
       "description": "One SQL interface over APIs, files, and live sources — built for agents.",
       "language": "Rust",
-      "stars_gained": 204,
+      "stars_gained": 209,
       "rank": 34
     },
     {
-      "repo_url": "https://github.com/antirez/ds4",
-      "owner": "antirez",
-      "name": "ds4",
-      "description": "DeepSeek 4 Flash local inference engine for Metal and CUDA",
-      "language": "C",
-      "stars_gained": 217,
+      "repo_url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "owner": "BigBodyCobain",
+      "name": "Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "TypeScript",
+      "stars_gained": 169,
       "rank": 35
     },
     {
@@ -324,80 +324,8 @@
       "name": "OpenCLI",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
       "language": "JavaScript",
-      "stars_gained": 194,
+      "stars_gained": 191,
       "rank": 36
-    },
-    {
-      "repo_url": "https://github.com/dograh-hq/dograh",
-      "owner": "dograh-hq",
-      "name": "dograh",
-      "description": "Open Source Voice Agent Platform",
-      "language": "Python",
-      "stars_gained": 169,
-      "rank": 37
-    },
-    {
-      "repo_url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "owner": "BigBodyCobain",
-      "name": "Shadowbroker",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "language": "TypeScript",
-      "stars_gained": 152,
-      "rank": 38
-    },
-    {
-      "repo_url": "https://github.com/heygen-com/hyperframes",
-      "owner": "heygen-com",
-      "name": "hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_gained": 178,
-      "rank": 39
-    },
-    {
-      "repo_url": "https://github.com/NVlabs/Sana",
-      "owner": "NVlabs",
-      "name": "Sana",
-      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
-      "language": "Python",
-      "stars_gained": 183,
-      "rank": 40
-    },
-    {
-      "repo_url": "https://github.com/fathah/hermes-desktop",
-      "owner": "fathah",
-      "name": "hermes-desktop",
-      "description": "Desktop Companion for Hermes Agent",
-      "language": "TypeScript",
-      "stars_gained": 200,
-      "rank": 41
-    },
-    {
-      "repo_url": "https://github.com/truelockmc/streambert",
-      "owner": "truelockmc",
-      "name": "streambert",
-      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
-      "language": "JavaScript",
-      "stars_gained": 147,
-      "rank": 42
-    },
-    {
-      "repo_url": "https://github.com/crynta/terax-ai",
-      "owner": "crynta",
-      "name": "terax-ai",
-      "description": "Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React",
-      "language": "TypeScript",
-      "stars_gained": 170,
-      "rank": 43
-    },
-    {
-      "repo_url": "https://github.com/safishamsi/graphify",
-      "owner": "safishamsi",
-      "name": "graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "language": "Python",
-      "stars_gained": 179,
-      "rank": 44
     },
     {
       "repo_url": "https://github.com/MinishLab/semble",
@@ -405,8 +333,62 @@
       "name": "semble",
       "description": "Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read",
       "language": "Python",
-      "stars_gained": 143,
-      "rank": 45
+      "stars_gained": 166,
+      "rank": 37
+    },
+    {
+      "repo_url": "https://github.com/truelockmc/streambert",
+      "owner": "truelockmc",
+      "name": "streambert",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "language": "JavaScript",
+      "stars_gained": 164,
+      "rank": 38
+    },
+    {
+      "repo_url": "https://github.com/dograh-hq/dograh",
+      "owner": "dograh-hq",
+      "name": "dograh",
+      "description": "Open Source Voice Agent Platform",
+      "language": "Python",
+      "stars_gained": 171,
+      "rank": 39
+    },
+    {
+      "repo_url": "https://github.com/antirez/ds4",
+      "owner": "antirez",
+      "name": "ds4",
+      "description": "DeepSeek 4 Flash local inference engine for Metal and CUDA",
+      "language": "C",
+      "stars_gained": 198,
+      "rank": 40
+    },
+    {
+      "repo_url": "https://github.com/heygen-com/hyperframes",
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_gained": 176,
+      "rank": 41
+    },
+    {
+      "repo_url": "https://github.com/NVlabs/Sana",
+      "owner": "NVlabs",
+      "name": "Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "language": "Python",
+      "stars_gained": 194,
+      "rank": 42
+    },
+    {
+      "repo_url": "https://github.com/safishamsi/graphify",
+      "owner": "safishamsi",
+      "name": "graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars_gained": 169,
+      "rank": 43
     },
     {
       "repo_url": "https://github.com/KeygraphHQ/shannon",
@@ -414,15 +396,33 @@
       "name": "shannon",
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "language": "TypeScript",
-      "stars_gained": 149,
+      "stars_gained": 155,
+      "rank": 44
+    },
+    {
+      "repo_url": "https://github.com/Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "stars_gained": 148,
+      "rank": 45
+    },
+    {
+      "repo_url": "https://github.com/santifer/career-ops",
+      "owner": "santifer",
+      "name": "career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars_gained": 136,
       "rank": 46
     },
     {
-      "repo_url": "https://github.com/compozy/compozy",
-      "owner": "compozy",
-      "name": "compozy",
-      "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
-      "language": "Go",
+      "repo_url": "https://github.com/facebookresearch/vggt-omega",
+      "owner": "facebookresearch",
+      "name": "vggt-omega",
+      "description": "[CVPR 2026 Oral] VGGT Omega",
+      "language": "Python",
       "stars_gained": 158,
       "rank": 47
     },
@@ -432,25 +432,25 @@
       "name": "cli",
       "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
       "language": "Go",
-      "stars_gained": 161,
+      "stars_gained": 167,
       "rank": 48
     },
     {
-      "repo_url": "https://github.com/op7418/guizang-ppt-skill",
-      "owner": "op7418",
-      "name": "guizang-ppt-skill",
-      "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
-      "language": "HTML",
-      "stars_gained": 175,
+      "repo_url": "https://github.com/crynta/terax-ai",
+      "owner": "crynta",
+      "name": "terax-ai",
+      "description": "Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React",
+      "language": "TypeScript",
+      "stars_gained": 152,
       "rank": 49
     },
     {
-      "repo_url": "https://github.com/Alishahryar1/free-claude-code",
-      "owner": "Alishahryar1",
-      "name": "free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
-      "language": "Python",
-      "stars_gained": 146,
+      "repo_url": "https://github.com/compozy/compozy",
+      "owner": "compozy",
+      "name": "compozy",
+      "description": "Drive the full lifecycle of AI-assisted development — from idea to shipped code.",
+      "language": "Go",
+      "stars_gained": 159,
       "rank": 50
     }
   ]
