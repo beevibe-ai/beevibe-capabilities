@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T14:37:43.887Z",
+  "fetched_at": "2026-05-27T14:52:54.701Z",
   "period": "weekly",
   "source": "oss-insight:past_week",
   "repos": [
@@ -9,7 +9,7 @@
       "name": "Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_gained": 1883,
+      "stars_gained": 2087,
       "rank": 1
     },
     {
@@ -18,7 +18,7 @@
       "name": "codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_gained": 1883,
+      "stars_gained": 1917,
       "rank": 2
     },
     {
@@ -27,7 +27,7 @@
       "name": "andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars_gained": 1696,
+      "stars_gained": 1672,
       "rank": 3
     },
     {
@@ -36,7 +36,7 @@
       "name": "ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_gained": 1102,
+      "stars_gained": 1175,
       "rank": 4
     },
     {
@@ -45,17 +45,8 @@
       "name": "claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_gained": 797,
+      "stars_gained": 771,
       "rank": 5
-    },
-    {
-      "repo_url": "https://github.com/tinyhumansai/openhuman",
-      "owner": "tinyhumansai",
-      "name": "openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "stars_gained": 657,
-      "rank": 6
     },
     {
       "repo_url": "https://github.com/Imbad0202/academic-research-skills",
@@ -63,17 +54,17 @@
       "name": "academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_gained": 628,
-      "rank": 7
+      "stars_gained": 598,
+      "rank": 6
     },
     {
-      "repo_url": "https://github.com/CloakHQ/CloakBrowser",
-      "owner": "CloakHQ",
-      "name": "CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "language": "Python",
-      "stars_gained": 459,
-      "rank": 8
+      "repo_url": "https://github.com/tinyhumansai/openhuman",
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_gained": 533,
+      "rank": 7
     },
     {
       "repo_url": "https://github.com/anthropics/knowledge-work-plugins",
@@ -81,8 +72,26 @@
       "name": "knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_gained": 358,
+      "stars_gained": 391,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/Leonxlnx/taste-skill",
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+      "language": "",
+      "stars_gained": 355,
       "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/CloakHQ/CloakBrowser",
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars_gained": 426,
+      "rank": 10
     },
     {
       "repo_url": "https://github.com/safishamsi/graphify",
@@ -90,8 +99,8 @@
       "name": "graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars_gained": 393,
-      "rank": 10
+      "stars_gained": 397,
+      "rank": 11
     },
     {
       "repo_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
@@ -99,16 +108,7 @@
       "name": "Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars_gained": 319,
-      "rank": 11
-    },
-    {
-      "repo_url": "https://github.com/rohitg00/agentmemory",
-      "owner": "rohitg00",
-      "name": "agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "stars_gained": 377,
+      "stars_gained": 343,
       "rank": 12
     },
     {
@@ -117,8 +117,17 @@
       "name": "free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
-      "stars_gained": 321,
+      "stars_gained": 324,
       "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/rohitg00/agentmemory",
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars_gained": 345,
+      "rank": 14
     },
     {
       "repo_url": "https://github.com/multica-ai/multica",
@@ -126,8 +135,8 @@
       "name": "multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars_gained": 302,
-      "rank": 14
+      "stars_gained": 306,
+      "rank": 15
     },
     {
       "repo_url": "https://github.com/tashfeenahmed/freellmapi",
@@ -135,8 +144,8 @@
       "name": "freellmapi",
       "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
       "language": "TypeScript",
-      "stars_gained": 306,
-      "rank": 15
+      "stars_gained": 278,
+      "rank": 16
     },
     {
       "repo_url": "https://github.com/manaflow-ai/cmux",
@@ -144,8 +153,8 @@
       "name": "cmux",
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "language": "Swift",
-      "stars_gained": 257,
-      "rank": 16
+      "stars_gained": 264,
+      "rank": 17
     },
     {
       "repo_url": "https://github.com/Hmbown/CodeWhale",
@@ -153,16 +162,7 @@
       "name": "CodeWhale",
       "description": "Coding agent for open source, open weight models ",
       "language": "Rust",
-      "stars_gained": 250,
-      "rank": 17
-    },
-    {
-      "repo_url": "https://github.com/rtk-ai/rtk",
-      "owner": "rtk-ai",
-      "name": "rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "stars_gained": 263,
+      "stars_gained": 242,
       "rank": 18
     },
     {
@@ -171,17 +171,8 @@
       "name": "nature-skills",
       "description": "符合nature论文学术表达和科研绘图的Skill",
       "language": "Python",
-      "stars_gained": 249,
+      "stars_gained": 247,
       "rank": 19
-    },
-    {
-      "repo_url": "https://github.com/simplifaisoul/osiris",
-      "owner": "simplifaisoul",
-      "name": "osiris",
-      "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative",
-      "language": "TypeScript",
-      "stars_gained": 229,
-      "rank": 20
     },
     {
       "repo_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
@@ -189,8 +180,8 @@
       "name": "FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars_gained": 245,
-      "rank": 21
+      "stars_gained": 253,
+      "rank": 20
     },
     {
       "repo_url": "https://github.com/hugohe3/ppt-master",
@@ -198,8 +189,26 @@
       "name": "ppt-master",
       "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
       "language": "Python",
-      "stars_gained": 217,
+      "stars_gained": 227,
+      "rank": 21
+    },
+    {
+      "repo_url": "https://github.com/rtk-ai/rtk",
+      "owner": "rtk-ai",
+      "name": "rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "stars_gained": 233,
       "rank": 22
+    },
+    {
+      "repo_url": "https://github.com/simplifaisoul/osiris",
+      "owner": "simplifaisoul",
+      "name": "osiris",
+      "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative",
+      "language": "TypeScript",
+      "stars_gained": 226,
+      "rank": 23
     },
     {
       "repo_url": "https://github.com/can1357/oh-my-pi",
@@ -207,25 +216,16 @@
       "name": "oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_gained": 226,
-      "rank": 23
-    },
-    {
-      "repo_url": "https://github.com/Leonxlnx/taste-skill",
-      "owner": "Leonxlnx",
-      "name": "taste-skill",
-      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "language": "",
-      "stars_gained": 193,
+      "stars_gained": 236,
       "rank": 24
     },
     {
-      "repo_url": "https://github.com/HKUDS/CLI-Anything",
-      "owner": "HKUDS",
-      "name": "CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "stars_gained": 218,
+      "repo_url": "https://github.com/addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars_gained": 171,
       "rank": 25
     },
     {
@@ -234,16 +234,16 @@
       "name": "supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars_gained": 184,
+      "stars_gained": 180,
       "rank": 26
     },
     {
-      "repo_url": "https://github.com/decolua/9router",
-      "owner": "decolua",
-      "name": "9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "language": "JavaScript",
-      "stars_gained": 192,
+      "repo_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars_gained": 190,
       "rank": 27
     },
     {
@@ -252,53 +252,35 @@
       "name": "hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
-      "stars_gained": 181,
+      "stars_gained": 178,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "owner": "ChromeDevTools",
-      "name": "chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
+      "repo_url": "https://github.com/decolua/9router",
+      "owner": "decolua",
+      "name": "9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
       "stars_gained": 182,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/HKUDS/ViMax",
+      "repo_url": "https://github.com/HKUDS/CLI-Anything",
       "owner": "HKUDS",
-      "name": "ViMax",
-      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "name": "CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars_gained": 216,
+      "stars_gained": 181,
       "rank": 30
     },
     {
-      "repo_url": "https://github.com/addyosmani/agent-skills",
-      "owner": "addyosmani",
-      "name": "agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars_gained": 167,
-      "rank": 31
-    },
-    {
-      "repo_url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "owner": "wiltodelta",
-      "name": "remove-ai-watermarks",
-      "description": "CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images",
+      "repo_url": "https://github.com/st-tech/ppf-contact-solver",
+      "owner": "st-tech",
+      "name": "ppf-contact-solver",
+      "description": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
       "language": "Python",
-      "stars_gained": 194,
-      "rank": 32
-    },
-    {
-      "repo_url": "https://github.com/thananon/9arm-skills",
-      "owner": "thananon",
-      "name": "9arm-skills",
-      "description": "",
-      "language": "Shell",
-      "stars_gained": 189,
-      "rank": 33
+      "stars_gained": 187,
+      "rank": 31
     },
     {
       "repo_url": "https://github.com/anthropics/financial-services",
@@ -306,17 +288,17 @@
       "name": "financial-services",
       "description": "",
       "language": "Python",
-      "stars_gained": 163,
-      "rank": 34
+      "stars_gained": 155,
+      "rank": 32
     },
     {
-      "repo_url": "https://github.com/truelockmc/streambert",
-      "owner": "truelockmc",
-      "name": "streambert",
-      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
-      "language": "JavaScript",
-      "stars_gained": 199,
-      "rank": 35
+      "repo_url": "https://github.com/fathah/hermes-desktop",
+      "owner": "fathah",
+      "name": "hermes-desktop",
+      "description": "Desktop Companion for Hermes Agent",
+      "language": "TypeScript",
+      "stars_gained": 140,
+      "rank": 33
     },
     {
       "repo_url": "https://github.com/presenton/presenton",
@@ -324,7 +306,25 @@
       "name": "presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
       "language": "TypeScript",
-      "stars_gained": 184,
+      "stars_gained": 191,
+      "rank": 34
+    },
+    {
+      "repo_url": "https://github.com/HKUDS/ViMax",
+      "owner": "HKUDS",
+      "name": "ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "stars_gained": 187,
+      "rank": 35
+    },
+    {
+      "repo_url": "https://github.com/truelockmc/streambert",
+      "owner": "truelockmc",
+      "name": "streambert",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "language": "JavaScript",
+      "stars_gained": 188,
       "rank": 36
     },
     {
@@ -333,8 +333,17 @@
       "name": "voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_gained": 154,
+      "stars_gained": 147,
       "rank": 37
+    },
+    {
+      "repo_url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "owner": "wiltodelta",
+      "name": "remove-ai-watermarks",
+      "description": "CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images",
+      "language": "Python",
+      "stars_gained": 160,
+      "rank": 38
     },
     {
       "repo_url": "https://github.com/withcoral/coral",
@@ -342,44 +351,8 @@
       "name": "coral",
       "description": "One SQL interface over APIs, files, and live sources — built for agents.",
       "language": "Rust",
-      "stars_gained": 168,
-      "rank": 38
-    },
-    {
-      "repo_url": "https://github.com/st-tech/ppf-contact-solver",
-      "owner": "st-tech",
-      "name": "ppf-contact-solver",
-      "description": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
-      "language": "Python",
-      "stars_gained": 170,
+      "stars_gained": 163,
       "rank": 39
-    },
-    {
-      "repo_url": "https://github.com/rmyndharis/OpenWA",
-      "owner": "rmyndharis",
-      "name": "OpenWA",
-      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "language": "TypeScript",
-      "stars_gained": 169,
-      "rank": 40
-    },
-    {
-      "repo_url": "https://github.com/88lin/video_vip",
-      "owner": "88lin",
-      "name": "video_vip",
-      "description": "全网VIP视频免费破解脚本，通过集成多个第三方解析接口，去除广告，绕过视频网站的会员限制，让用户享受免费的视频观看体验。适配PC+移动，支持爱奇艺、腾讯、优酷、芒果TV、bilibili等主流视频平台！脚本长期维护更新，完全免费",
-      "language": "JavaScript",
-      "stars_gained": 165,
-      "rank": 41
-    },
-    {
-      "repo_url": "https://github.com/datawhalechina/easy-vibe",
-      "owner": "datawhalechina",
-      "name": "easy-vibe",
-      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-      "language": "JavaScript",
-      "stars_gained": 145,
-      "rank": 42
     },
     {
       "repo_url": "https://github.com/Wei-Shaw/sub2api",
@@ -387,35 +360,8 @@
       "name": "sub2api",
       "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
-      "stars_gained": 134,
-      "rank": 43
-    },
-    {
-      "repo_url": "https://github.com/ComposioHQ/awesome-codex-skills",
-      "owner": "ComposioHQ",
-      "name": "awesome-codex-skills",
-      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-      "language": "Python",
-      "stars_gained": 131,
-      "rank": 44
-    },
-    {
-      "repo_url": "https://github.com/garrytan/gbrain",
-      "owner": "garrytan",
-      "name": "gbrain",
-      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "language": "TypeScript",
-      "stars_gained": 132,
-      "rank": 45
-    },
-    {
-      "repo_url": "https://github.com/fathah/hermes-desktop",
-      "owner": "fathah",
-      "name": "hermes-desktop",
-      "description": "Desktop Companion for Hermes Agent",
-      "language": "TypeScript",
-      "stars_gained": 120,
-      "rank": 46
+      "stars_gained": 127,
+      "rank": 40
     },
     {
       "repo_url": "https://github.com/AIDC-AI/Pixelle-Video",
@@ -423,7 +369,61 @@
       "name": "Pixelle-Video",
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
-      "stars_gained": 135,
+      "stars_gained": 140,
+      "rank": 41
+    },
+    {
+      "repo_url": "https://github.com/garrytan/gbrain",
+      "owner": "garrytan",
+      "name": "gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "language": "TypeScript",
+      "stars_gained": 131,
+      "rank": 42
+    },
+    {
+      "repo_url": "https://github.com/88lin/video_vip",
+      "owner": "88lin",
+      "name": "video_vip",
+      "description": "全网VIP视频免费破解脚本，通过集成多个第三方解析接口，去除广告，绕过视频网站的会员限制，让用户享受免费的视频观看体验。适配PC+移动，支持爱奇艺、腾讯、优酷、芒果TV、bilibili等主流视频平台！脚本长期维护更新，完全免费",
+      "language": "JavaScript",
+      "stars_gained": 166,
+      "rank": 43
+    },
+    {
+      "repo_url": "https://github.com/walkinglabs/learn-harness-engineering",
+      "owner": "walkinglabs",
+      "name": "learn-harness-engineering",
+      "description": "Harness engineering official style beginner tutorial, from 0 to 1",
+      "language": "TypeScript",
+      "stars_gained": 140,
+      "rank": 44
+    },
+    {
+      "repo_url": "https://github.com/Axorax/awesome-free-apps",
+      "owner": "Axorax",
+      "name": "awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "language": "JavaScript",
+      "stars_gained": 131,
+      "rank": 45
+    },
+    {
+      "repo_url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "owner": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars_gained": 133,
+      "rank": 46
+    },
+    {
+      "repo_url": "https://github.com/thananon/9arm-skills",
+      "owner": "thananon",
+      "name": "9arm-skills",
+      "description": "",
+      "language": "Shell",
+      "stars_gained": 146,
       "rank": 47
     },
     {
@@ -436,21 +436,21 @@
       "rank": 48
     },
     {
-      "repo_url": "https://github.com/pbakaus/impeccable",
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars_gained": 126,
+      "repo_url": "https://github.com/rmyndharis/OpenWA",
+      "owner": "rmyndharis",
+      "name": "OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "stars_gained": 138,
       "rank": 49
     },
     {
-      "repo_url": "https://github.com/walkinglabs/learn-harness-engineering",
-      "owner": "walkinglabs",
-      "name": "learn-harness-engineering",
-      "description": "Harness engineering official style beginner tutorial, from 0 to 1",
+      "repo_url": "https://github.com/shareAI-lab/learn-claude-code",
+      "owner": "shareAI-lab",
+      "name": "learn-claude-code",
+      "description": "Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1",
       "language": "TypeScript",
-      "stars_gained": 131,
+      "stars_gained": 126,
       "rank": 50
     }
   ]
