@@ -1,79 +1,16 @@
 {
-  "fetched_at": "2026-06-12T14:31:36.554Z",
+  "fetched_at": "2026-06-13T13:22:43.526Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
-    {
-      "repo_url": "https://github.com/apple/container",
-      "owner": "apple",
-      "name": "container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
-      "language": "Swift",
-      "stars_gained": 105,
-      "rank": 1
-    },
     {
       "repo_url": "https://github.com/chopratejas/headroom",
       "owner": "chopratejas",
       "name": "headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_gained": 38,
-      "rank": 2
-    },
-    {
-      "repo_url": "https://github.com/kenn-io/agentsview",
-      "owner": "kenn-io",
-      "name": "agentsview",
-      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-      "language": "Go",
-      "stars_gained": 24,
-      "rank": 3
-    },
-    {
-      "repo_url": "https://github.com/Leonxlnx/taste-skill",
-      "owner": "Leonxlnx",
-      "name": "taste-skill",
-      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "language": "",
-      "stars_gained": 23,
-      "rank": 4
-    },
-    {
-      "repo_url": "https://github.com/colbymchenry/codegraph",
-      "owner": "colbymchenry",
-      "name": "codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "stars_gained": 23,
-      "rank": 5
-    },
-    {
-      "repo_url": "https://github.com/Lum1104/Understand-Anything",
-      "owner": "Lum1104",
-      "name": "Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "TypeScript",
-      "stars_gained": 21,
-      "rank": 6
-    },
-    {
-      "repo_url": "https://github.com/maziyarpanahi/openmed",
-      "owner": "maziyarpanahi",
-      "name": "openmed",
-      "description": "open-source healthcare ai",
-      "language": "Python",
-      "stars_gained": 18,
-      "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/hugohe3/ppt-master",
-      "owner": "hugohe3",
-      "name": "ppt-master",
-      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
-      "language": "Python",
-      "stars_gained": 17,
-      "rank": 8
+      "stars_gained": 63,
+      "rank": 1
     },
     {
       "repo_url": "https://github.com/mvanhorn/last30days-skill",
@@ -81,17 +18,44 @@
       "name": "last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_gained": 17,
-      "rank": 9
+      "stars_gained": 44,
+      "rank": 2
     },
     {
-      "repo_url": "https://github.com/rtk-ai/rtk",
-      "owner": "rtk-ai",
-      "name": "rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "stars_gained": 16,
-      "rank": 10
+      "repo_url": "https://github.com/Leonxlnx/taste-skill",
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+      "language": "",
+      "stars_gained": 34,
+      "rank": 3
+    },
+    {
+      "repo_url": "https://github.com/apple/container",
+      "owner": "apple",
+      "name": "container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+      "language": "Swift",
+      "stars_gained": 63,
+      "rank": 4
+    },
+    {
+      "repo_url": "https://github.com/Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_gained": 33,
+      "rank": 5
+    },
+    {
+      "repo_url": "https://github.com/colbymchenry/codegraph",
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars_gained": 31,
+      "rank": 6
     },
     {
       "repo_url": "https://github.com/refactoringhq/tolaria",
@@ -99,80 +63,17 @@
       "name": "tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_gained": 15,
-      "rank": 11
+      "stars_gained": 22,
+      "rank": 7
     },
     {
-      "repo_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_gained": 12,
-      "rank": 12
-    },
-    {
-      "repo_url": "https://github.com/Wei-Shaw/sub2api",
-      "owner": "Wei-Shaw",
-      "name": "sub2api",
-      "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "language": "Go",
-      "stars_gained": 12,
-      "rank": 13
-    },
-    {
-      "repo_url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-      "owner": "alchaincyf",
-      "name": "zhangxuefeng-skill",
-      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-      "language": "",
-      "stars_gained": 12,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/Agents365-ai/drawio-skill",
-      "owner": "Agents365-ai",
-      "name": "drawio-skill",
-      "description": "Generate draw.io diagrams from natural language with 6 presets and a 2-round self-check loop. Exports to PNG/SVG/PDF/JPG.",
-      "language": "Python",
-      "stars_gained": 10,
-      "rank": 15
-    },
-    {
-      "repo_url": "https://github.com/steipete/agent-scripts",
-      "owner": "steipete",
-      "name": "agent-scripts",
-      "description": "Scripts for agents, shared between my repositories.",
-      "language": "JavaScript",
-      "stars_gained": 10,
-      "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/luongnv89/claude-howto",
-      "owner": "luongnv89",
-      "name": "claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "stars_gained": 9,
-      "rank": 17
-    },
-    {
-      "repo_url": "https://github.com/masterking32/MasterDnsVPN",
-      "owner": "masterking32",
-      "name": "MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "language": "Go",
-      "stars_gained": 10,
-      "rank": 18
-    },
-    {
-      "repo_url": "https://github.com/mindfold-ai/Trellis",
-      "owner": "mindfold-ai",
-      "name": "Trellis",
-      "description": "The best agent harness.",
+      "repo_url": "https://github.com/Lum1104/Understand-Anything",
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_gained": 9,
-      "rank": 19
+      "stars_gained": 18,
+      "rank": 8
     },
     {
       "repo_url": "https://github.com/santifer/career-ops",
@@ -180,8 +81,26 @@
       "name": "career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars_gained": 8,
-      "rank": 20
+      "stars_gained": 17,
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
+      "owner": "zhukunpenglinyutong",
+      "name": "desktop-cc-gui",
+      "description": "CC GUI 客户端（专为开发者打造的VibeCoding平台）",
+      "language": "TypeScript",
+      "stars_gained": 16,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/rtk-ai/rtk",
+      "owner": "rtk-ai",
+      "name": "rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "stars_gained": 13,
+      "rank": 11
     },
     {
       "repo_url": "https://github.com/Imbad0202/academic-research-skills",
@@ -189,8 +108,53 @@
       "name": "academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_gained": 9,
-      "rank": 21
+      "stars_gained": 12,
+      "rank": 12
+    },
+    {
+      "repo_url": "https://github.com/QuantFunc/ComfyUI-QuantFunc",
+      "owner": "QuantFunc",
+      "name": "ComfyUI-QuantFunc",
+      "description": "",
+      "language": "Python",
+      "stars_gained": 12,
+      "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/Agents365-ai/drawio-skill",
+      "owner": "Agents365-ai",
+      "name": "drawio-skill",
+      "description": "Generate draw.io diagrams from natural language with 6 presets and a 2-round self-check loop. Exports to PNG/SVG/PDF/JPG.",
+      "language": "Python",
+      "stars_gained": 11,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_gained": 11,
+      "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/pbakaus/impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_gained": 12,
+      "rank": 16
+    },
+    {
+      "repo_url": "https://github.com/masterking32/MasterDnsVPN",
+      "owner": "masterking32",
+      "name": "MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars_gained": 13,
+      "rank": 17
     },
     {
       "repo_url": "https://github.com/datawhalechina/hello-agents",
@@ -198,8 +162,8 @@
       "name": "hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
-      "stars_gained": 7,
-      "rank": 22
+      "stars_gained": 10,
+      "rank": 18
     },
     {
       "repo_url": "https://github.com/tashfeenahmed/freellmapi",
@@ -208,25 +172,34 @@
       "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
       "language": "TypeScript",
       "stars_gained": 10,
-      "rank": 23
+      "rank": 19
     },
     {
-      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
-      "owner": "Yuan1z0825",
-      "name": "nature-skills",
-      "description": "符合nature论文学术表达和科研绘图的Skill",
+      "repo_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "owner": "helloianneo",
+      "name": "ian-xiaohei-illustrations",
+      "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+      "language": "",
+      "stars_gained": 8,
+      "rank": 20
+    },
+    {
+      "repo_url": "https://github.com/hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
       "language": "Python",
-      "stars_gained": 8,
-      "rank": 24
+      "stars_gained": 10,
+      "rank": 21
     },
     {
-      "repo_url": "https://github.com/op7418/guizang-ppt-skill",
-      "owner": "op7418",
-      "name": "guizang-ppt-skill",
-      "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
-      "language": "HTML",
-      "stars_gained": 8,
-      "rank": 25
+      "repo_url": "https://github.com/heygen-com/hyperframes",
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_gained": 10,
+      "rank": 22
     },
     {
       "repo_url": "https://github.com/tinyhumansai/openhuman",
@@ -234,43 +207,70 @@
       "name": "openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
+      "stars_gained": 11,
+      "rank": 23
+    },
+    {
+      "repo_url": "https://github.com/RyanCodrai/turbovec",
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Rust",
       "stars_gained": 8,
+      "rank": 24
+    },
+    {
+      "repo_url": "https://github.com/Thysrael/Horizon",
+      "owner": "Thysrael",
+      "name": "Horizon",
+      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+      "language": "Python",
+      "stars_gained": 8,
+      "rank": 25
+    },
+    {
+      "repo_url": "https://github.com/OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_gained": 7,
       "rank": 26
     },
     {
-      "repo_url": "https://github.com/yukiyokotani/office-open-xml-viewer",
-      "owner": "yukiyokotani",
-      "name": "office-open-xml-viewer",
-      "description": "",
-      "language": "TypeScript",
-      "stars_gained": 8,
+      "repo_url": "https://github.com/HKUSTDial/Supervisor-Skills",
+      "owner": "HKUSTDial",
+      "name": "Supervisor-Skills",
+      "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。",
+      "language": "Python",
+      "stars_gained": 7,
       "rank": 27
     },
     {
-      "repo_url": "https://github.com/anthropics/financial-services",
-      "owner": "anthropics",
-      "name": "financial-services",
-      "description": "",
-      "language": "Python",
-      "stars_gained": 7,
+      "repo_url": "https://github.com/Wei-Shaw/sub2api",
+      "owner": "Wei-Shaw",
+      "name": "sub2api",
+      "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "stars_gained": 6,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/Panniantong/Agent-Reach",
-      "owner": "Panniantong",
-      "name": "Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_gained": 6,
+      "repo_url": "https://github.com/igareck/vpn-configs-for-russia",
+      "owner": "igareck",
+      "name": "vpn-configs-for-russia",
+      "description": "🗽Бесплатные и проверенные VPN конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN configurations that work in Russia ⚪ Whitelists bypass",
+      "language": "",
+      "stars_gained": 8,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/jnMetaCode/agency-agents-zh",
-      "owner": "jnMetaCode",
-      "name": "agency-agents-zh",
-      "description": "🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）",
-      "language": "Shell",
-      "stars_gained": 6,
+      "repo_url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "owner": "ace-trump-tech",
+      "name": "DeltaForce-OBS-Locker",
+      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。5L2G5YW25a6e5Lul5LiK5YWo5piv6aqX5L2g55qE77yM6L+Z5Y+q5piv5Liq5biu5L2g5a6J6KOF5pqX5Yy656qB5Zu055qE5Y+N5L2c5byK6aG555uu572i5LqG",
+      "language": "Python",
+      "stars_gained": 3,
       "rank": 30
     }
   ]
