@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-06-20T13:24:44.354Z",
+  "fetched_at": "2026-06-21T13:45:38.068Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
-    {
-      "repo_url": "https://github.com/chopratejas/headroom",
-      "owner": "chopratejas",
-      "name": "headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_gained": 102,
-      "rank": 1
-    },
     {
       "repo_url": "https://github.com/DietrichGebert/ponytail",
       "owner": "DietrichGebert",
       "name": "ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_gained": 56,
+      "stars_gained": 157,
+      "rank": 1
+    },
+    {
+      "repo_url": "https://github.com/chopratejas/headroom",
+      "owner": "chopratejas",
+      "name": "headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_gained": 140,
       "rank": 2
     },
     {
@@ -27,17 +27,8 @@
       "name": "codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_gained": 29,
+      "stars_gained": 64,
       "rank": 3
-    },
-    {
-      "repo_url": "https://github.com/koala73/worldmonitor",
-      "owner": "koala73",
-      "name": "worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_gained": 17,
-      "rank": 4
     },
     {
       "repo_url": "https://github.com/Panniantong/Agent-Reach",
@@ -45,26 +36,8 @@
       "name": "Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_gained": 15,
-      "rank": 5
-    },
-    {
-      "repo_url": "https://github.com/Leonxlnx/taste-skill",
-      "owner": "Leonxlnx",
-      "name": "taste-skill",
-      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
-      "language": "",
-      "stars_gained": 13,
-      "rank": 6
-    },
-    {
-      "repo_url": "https://github.com/xrpcommunity/XRP-community-wallet",
-      "owner": "xrpcommunity",
-      "name": "XRP-community-wallet",
-      "description": "Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community.",
-      "language": "TypeScript",
-      "stars_gained": 11,
-      "rank": 7
+      "stars_gained": 55,
+      "rank": 4
     },
     {
       "repo_url": "https://github.com/calesthio/OpenMontage",
@@ -72,53 +45,89 @@
       "name": "OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_gained": 11,
+      "stars_gained": 47,
+      "rank": 5
+    },
+    {
+      "repo_url": "https://github.com/eooce/transfer-api",
+      "owner": "eooce",
+      "name": "transfer-api",
+      "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+      "language": "JavaScript",
+      "stars_gained": 12,
+      "rank": 6
+    },
+    {
+      "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "language": "Python",
+      "stars_gained": 29,
+      "rank": 7
+    },
+    {
+      "repo_url": "https://github.com/Leonxlnx/taste-skill",
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+      "language": "",
+      "stars_gained": 33,
       "rank": 8
     },
     {
-      "repo_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "repo_url": "https://github.com/lvy010/X-Plore",
+      "owner": "lvy010",
+      "name": "X-Plore",
+      "description": "My 2-Year College Notes Hub — Personal Web · 2000+ Blogs · 262 Repos",
       "language": "Python",
-      "stars_gained": 7,
+      "stars_gained": 24,
       "rank": 9
     },
     {
-      "repo_url": "https://github.com/yaojingang/yao-meta-skill",
-      "owner": "yaojingang",
-      "name": "yao-meta-skill",
-      "description": "YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills.",
+      "repo_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars_gained": 12,
+      "stars_gained": 22,
       "rank": 10
     },
     {
-      "repo_url": "https://github.com/mvanhorn/last30days-skill",
-      "owner": "mvanhorn",
-      "name": "last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars_gained": 9,
+      "repo_url": "https://github.com/jamiepine/voicebox",
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_gained": 24,
       "rank": 11
     },
     {
-      "repo_url": "https://github.com/modem-dev/hunk",
-      "owner": "modem-dev",
-      "name": "hunk",
-      "description": "Review-first terminal diff viewer for agentic coders",
+      "repo_url": "https://github.com/colbymchenry/codegraph",
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_gained": 9,
+      "stars_gained": 17,
       "rank": 12
     },
     {
-      "repo_url": "https://github.com/tashfeenahmed/freellmapi",
-      "owner": "tashfeenahmed",
-      "name": "freellmapi",
-      "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
-      "language": "TypeScript",
-      "stars_gained": 8,
+      "repo_url": "https://github.com/rtk-ai/rtk",
+      "owner": "rtk-ai",
+      "name": "rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "stars_gained": 20,
       "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/playRealmRumble/Realm-Rumble",
+      "owner": "playRealmRumble",
+      "name": "Realm-Rumble",
+      "description": "Build. Conquer. Earn Solana. An always-on strategy game on Solana where real rulers clash 24/7. Your throne is waiting.",
+      "language": "TypeScript",
+      "stars_gained": 18,
+      "rank": 14
     },
     {
       "repo_url": "https://github.com/NVIDIA/SkillSpector",
@@ -126,17 +135,17 @@
       "name": "SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars_gained": 8,
-      "rank": 14
+      "stars_gained": 18,
+      "rank": 15
     },
     {
-      "repo_url": "https://github.com/blader/humanizer",
-      "owner": "blader",
-      "name": "humanizer",
-      "description": "Claude Code skill that removes signs of AI-generated writing from text",
-      "language": "",
-      "stars_gained": 8,
-      "rank": 15
+      "repo_url": "https://github.com/heygen-com/hyperframes",
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_gained": 16,
+      "rank": 16
     },
     {
       "repo_url": "https://github.com/Alishahryar1/free-claude-code",
@@ -144,62 +153,89 @@
       "name": "free-claude-code",
       "description": "Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
       "language": "Python",
-      "stars_gained": 8,
-      "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/nashsu/llm_wiki",
-      "owner": "nashsu",
-      "name": "llm_wiki",
-      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "language": "TypeScript",
-      "stars_gained": 7,
+      "stars_gained": 17,
       "rank": 17
     },
     {
-      "repo_url": "https://github.com/zubair-trabzada/geo-seo-claude",
-      "owner": "zubair-trabzada",
-      "name": "geo-seo-claude",
-      "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community",
+      "repo_url": "https://github.com/mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_gained": 7,
+      "stars_gained": 17,
       "rank": 18
     },
     {
-      "repo_url": "https://github.com/VectifyAI/OpenKB",
-      "owner": "VectifyAI",
-      "name": "OpenKB",
-      "description": "OpenKB: Open LLM Knowledge Base",
+      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
+      "owner": "Yuan1z0825",
+      "name": "nature-skills",
+      "description": "符合nature论文学术表达和科研绘图的Skill",
       "language": "Python",
-      "stars_gained": 5,
+      "stars_gained": 16,
       "rank": 19
     },
     {
-      "repo_url": "https://github.com/CloakHQ/CloakBrowser",
-      "owner": "CloakHQ",
-      "name": "CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "repo_url": "https://github.com/Imbad0202/academic-research-skills",
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars_gained": 7,
+      "stars_gained": 14,
       "rank": 20
     },
     {
-      "repo_url": "https://github.com/dnshe/DNSHE-FreeDomains",
-      "owner": "dnshe",
-      "name": "DNSHE-FreeDomains",
-      "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
-      "language": "",
-      "stars_gained": 6,
+      "repo_url": "https://github.com/tashfeenahmed/freellmapi",
+      "owner": "tashfeenahmed",
+      "name": "freellmapi",
+      "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars_gained": 14,
       "rank": 21
     },
     {
-      "repo_url": "https://github.com/vercel/eve",
-      "owner": "vercel",
-      "name": "eve",
-      "description": "The Framework for Building Agents",
-      "language": "TypeScript",
-      "stars_gained": 6,
+      "repo_url": "https://github.com/zai-org/GLM-5",
+      "owner": "zai-org",
+      "name": "GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": "",
+      "stars_gained": 12,
       "rank": 22
+    },
+    {
+      "repo_url": "https://github.com/alibaba/open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_gained": 13,
+      "rank": 23
+    },
+    {
+      "repo_url": "https://github.com/webadderallorg/Recordly",
+      "owner": "webadderallorg",
+      "name": "Recordly",
+      "description": "Create polished demo videos without editing skills. Mac/Windows/Linux",
+      "language": "TypeScript",
+      "stars_gained": 13,
+      "rank": 24
+    },
+    {
+      "repo_url": "https://github.com/brokermr810/QuantDinger",
+      "owner": "brokermr810",
+      "name": "QuantDinger",
+      "description": "AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading",
+      "language": "Python",
+      "stars_gained": 12,
+      "rank": 25
+    },
+    {
+      "repo_url": "https://github.com/withastro/flue",
+      "owner": "withastro",
+      "name": "flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars_gained": 12,
+      "rank": 26
     },
     {
       "repo_url": "https://github.com/coreyhaines31/marketingskills",
@@ -207,17 +243,26 @@
       "name": "marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars_gained": 5,
-      "rank": 23
+      "stars_gained": 10,
+      "rank": 27
     },
     {
-      "repo_url": "https://github.com/omnigent-ai/omnigent",
-      "owner": "omnigent-ai",
-      "name": "omnigent",
-      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "language": "Python",
-      "stars_gained": 6,
-      "rank": 24
+      "repo_url": "https://github.com/blader/humanizer",
+      "owner": "blader",
+      "name": "humanizer",
+      "description": "Claude Code skill that removes signs of AI-generated writing from text",
+      "language": "",
+      "stars_gained": 12,
+      "rank": 28
+    },
+    {
+      "repo_url": "https://github.com/run-llama/liteparse",
+      "owner": "run-llama",
+      "name": "liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "stars_gained": 9,
+      "rank": 29
     },
     {
       "repo_url": "https://github.com/can1357/oh-my-pi",
@@ -225,52 +270,7 @@
       "name": "oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_gained": 5,
-      "rank": 25
-    },
-    {
-      "repo_url": "https://github.com/AlexsJones/llmfit",
-      "owner": "AlexsJones",
-      "name": "llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_gained": 4,
-      "rank": 26
-    },
-    {
-      "repo_url": "https://github.com/LearnPrompt/humanize-ppt",
-      "owner": "LearnPrompt",
-      "name": "humanize-ppt",
-      "description": "AST-based outline director for human-centered AI presentation workflows.",
-      "language": "Python",
-      "stars_gained": 5,
-      "rank": 27
-    },
-    {
-      "repo_url": "https://github.com/nidhinjs/prompt-master",
-      "owner": "nidhinjs",
-      "name": "prompt-master",
-      "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
-      "language": "",
-      "stars_gained": 3,
-      "rank": 28
-    },
-    {
-      "repo_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-      "owner": "helloianneo",
-      "name": "ian-xiaohei-illustrations",
-      "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-      "language": "",
-      "stars_gained": 5,
-      "rank": 29
-    },
-    {
-      "repo_url": "https://github.com/microsoft/AI-Engineering-Coach",
-      "owner": "microsoft",
-      "name": "AI-Engineering-Coach",
-      "description": "better agentic engineering",
-      "language": "TypeScript",
-      "stars_gained": 5,
+      "stars_gained": 10,
       "rank": 30
     }
   ]
