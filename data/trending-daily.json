@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-26T13:59:59.132Z",
+  "fetched_at": "2026-06-27T13:06:18.054Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
@@ -9,44 +9,17 @@
       "name": "OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_gained": 40,
+      "stars_gained": 85,
       "rank": 1
     },
     {
-      "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "owner": "ZhuLinsen",
-      "name": "daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_gained": 24,
+      "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_gained": 76,
       "rank": 2
-    },
-    {
-      "repo_url": "https://github.com/xbtlin/ai-berkshire",
-      "owner": "xbtlin",
-      "name": "ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars_gained": 26,
-      "rank": 3
-    },
-    {
-      "repo_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "owner": "mukul975",
-      "name": "Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_gained": 27,
-      "rank": 4
-    },
-    {
-      "repo_url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "owner": "shanraisshan",
-      "name": "claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "language": "HTML",
-      "stars_gained": 23,
-      "rank": 5
     },
     {
       "repo_url": "https://github.com/Panniantong/Agent-Reach",
@@ -54,8 +27,8 @@
       "name": "Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_gained": 23,
-      "rank": 6
+      "stars_gained": 55,
+      "rank": 3
     },
     {
       "repo_url": "https://github.com/JCodesMore/ai-website-cloner-template",
@@ -63,17 +36,26 @@
       "name": "ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_gained": 20,
-      "rank": 7
+      "stars_gained": 38,
+      "rank": 4
     },
     {
-      "repo_url": "https://github.com/stablyai/orca",
-      "owner": "stablyai",
-      "name": "orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "repo_url": "https://github.com/xbtlin/ai-berkshire",
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars_gained": 33,
+      "rank": 5
+    },
+    {
+      "repo_url": "https://github.com/Lakr233/AssppWeb",
+      "owner": "Lakr233",
+      "name": "AssppWeb",
+      "description": "",
       "language": "TypeScript",
-      "stars_gained": 18,
-      "rank": 8
+      "stars_gained": 28,
+      "rank": 6
     },
     {
       "repo_url": "https://github.com/mauriceboe/TREK",
@@ -81,7 +63,25 @@
       "name": "TREK",
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
-      "stars_gained": 18,
+      "stars_gained": 28,
+      "rank": 7
+    },
+    {
+      "repo_url": "https://github.com/hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "language": "Python",
+      "stars_gained": 25,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/kunchenguid/no-mistakes",
+      "owner": "kunchenguid",
+      "name": "no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars_gained": 24,
       "rank": 9
     },
     {
@@ -90,35 +90,53 @@
       "name": "taste-skill",
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
       "language": "",
-      "stars_gained": 17,
+      "stars_gained": 22,
       "rank": 10
     },
     {
-      "repo_url": "https://github.com/chopratejas/headroom",
-      "owner": "chopratejas",
-      "name": "headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars_gained": 17,
+      "repo_url": "https://github.com/simplex-chat/simplex-chat",
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars_gained": 63,
       "rank": 11
     },
     {
-      "repo_url": "https://github.com/hugohe3/ppt-master",
-      "owner": "hugohe3",
-      "name": "ppt-master",
-      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "stars_gained": 14,
       "rank": 12
     },
     {
-      "repo_url": "https://github.com/alibaba/page-agent",
-      "owner": "alibaba",
-      "name": "page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars_gained": 13,
+      "repo_url": "https://github.com/EpicGames/lore",
+      "owner": "EpicGames",
+      "name": "lore",
+      "description": "Lore is a next-generation, open source version control system",
+      "language": "Rust",
+      "stars_gained": 21,
       "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/ogulcancelik/herdr",
+      "owner": "ogulcancelik",
+      "name": "herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars_gained": 20,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/workweave/router",
+      "owner": "workweave",
+      "name": "router",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+      "language": "Go",
+      "stars_gained": 18,
+      "rank": 15
     },
     {
       "repo_url": "https://github.com/tashfeenahmed/freellmapi",
@@ -126,116 +144,71 @@
       "name": "freellmapi",
       "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_gained": 13,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
-      "owner": "DeusData",
-      "name": "codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_gained": 11,
-      "rank": 15
-    },
-    {
-      "repo_url": "https://github.com/deekur/gaokaomath",
-      "owner": "deekur",
-      "name": "gaokaomath",
-      "description": "历年高考数学真题",
-      "language": "",
-      "stars_gained": 10,
+      "stars_gained": 17,
       "rank": 16
     },
     {
-      "repo_url": "https://github.com/every-app/open-seo",
-      "owner": "every-app",
-      "name": "open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars_gained": 8,
+      "repo_url": "https://github.com/antirez/ds4",
+      "owner": "antirez",
+      "name": "ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "language": "C",
+      "stars_gained": 16,
       "rank": 17
     },
     {
-      "repo_url": "https://github.com/bozhouDev/codex-orange-book",
-      "owner": "bozhouDev",
-      "name": "codex-orange-book",
-      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-      "language": "HTML",
-      "stars_gained": 7,
+      "repo_url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "owner": "alchaincyf",
+      "name": "zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": "",
+      "stars_gained": 16,
       "rank": 18
     },
     {
-      "repo_url": "https://github.com/colbymchenry/codegraph",
-      "owner": "colbymchenry",
-      "name": "codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "stars_gained": 9,
+      "repo_url": "https://github.com/tinyhumansai/openhuman",
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars_gained": 16,
       "rank": 19
     },
     {
-      "repo_url": "https://github.com/Yu9191/wloc",
-      "owner": "Yu9191",
-      "name": "wloc",
-      "description": "Apple WLOC Location Spoofer",
-      "language": "JavaScript",
-      "stars_gained": 7,
+      "repo_url": "https://github.com/CyberStrikeus/CyberStrike",
+      "owner": "CyberStrikeus",
+      "name": "CyberStrike",
+      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
+      "language": "TypeScript",
+      "stars_gained": 14,
       "rank": 20
     },
     {
-      "repo_url": "https://github.com/EverMind-AI/EverOS",
-      "owner": "EverMind-AI",
-      "name": "EverOS",
-      "description": "Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more",
-      "language": "Python",
-      "stars_gained": 6,
+      "repo_url": "https://github.com/jamiepine/voicebox",
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_gained": 13,
       "rank": 21
     },
     {
-      "repo_url": "https://github.com/rtk-ai/rtk",
-      "owner": "rtk-ai",
-      "name": "rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "stars_gained": 8,
+      "repo_url": "https://github.com/BuilderIO/agent-native",
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "stars_gained": 14,
       "rank": 22
     },
     {
-      "repo_url": "https://github.com/zhaoxuya520/reverse-skill",
-      "owner": "zhaoxuya520",
-      "name": "reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "stars_gained": 7,
-      "rank": 23
-    },
-    {
-      "repo_url": "https://github.com/alchaincyf/nuwa-skill",
-      "owner": "alchaincyf",
-      "name": "nuwa-skill",
-      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-      "language": "Python",
-      "stars_gained": 7,
-      "rank": 24
-    },
-    {
-      "repo_url": "https://github.com/harborstremio/harbor",
-      "owner": "harborstremio",
-      "name": "harbor",
-      "description": "A Custom Stremio Client Built for Adventure!",
+      "repo_url": "https://github.com/rmyndharis/OpenWA",
+      "owner": "rmyndharis",
+      "name": "OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
-      "stars_gained": 6,
-      "rank": 25
-    },
-    {
-      "repo_url": "https://github.com/anbeime/skill",
-      "owner": "anbeime",
-      "name": "skill",
-      "description": "收录最全、更新最快的技能Skills 商店，涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流等多个领域的 72 个精选技能包。所有技能已打包完成，可直接安装使用！ 该商店中自动抓取了 Github 上的所有的 Skills 项目，并按照分类、更新时间、Star 数量等标签进行整理。",
-      "language": "Python",
-      "stars_gained": 6,
-      "rank": 26
+      "stars_gained": 13,
+      "rank": 23
     },
     {
       "repo_url": "https://github.com/pbakaus/impeccable",
@@ -243,34 +216,61 @@
       "name": "impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_gained": 6,
+      "stars_gained": 13,
+      "rank": 24
+    },
+    {
+      "repo_url": "https://github.com/stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_gained": 13,
+      "rank": 25
+    },
+    {
+      "repo_url": "https://github.com/mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_gained": 11,
+      "rank": 26
+    },
+    {
+      "repo_url": "https://github.com/alibaba/page-agent",
+      "owner": "alibaba",
+      "name": "page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars_gained": 11,
       "rank": 27
     },
     {
-      "repo_url": "https://github.com/NVIDIA/SkillSpector",
-      "owner": "NVIDIA",
-      "name": "SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars_gained": 6,
+      "repo_url": "https://github.com/xrpcommunity/XRP-community-wallet",
+      "owner": "xrpcommunity",
+      "name": "XRP-community-wallet",
+      "description": "Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community.",
+      "language": "TypeScript",
+      "stars_gained": 2,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/heygen-com/hyperframes",
-      "owner": "heygen-com",
-      "name": "hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_gained": 7,
+      "repo_url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "stars_gained": 9,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/Tencent/WeKnora",
-      "owner": "Tencent",
-      "name": "WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "stars_gained": 7,
+      "repo_url": "https://github.com/every-app/open-seo",
+      "owner": "every-app",
+      "name": "open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_gained": 10,
       "rank": 30
     }
   ]
