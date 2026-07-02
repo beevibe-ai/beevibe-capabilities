@@ -1,24 +1,24 @@
 {
-  "fetched_at": "2026-07-01T14:05:01.304Z",
+  "fetched_at": "2026-07-02T13:26:51.876Z",
   "period": "monthly",
   "source": "oss-insight:past_month",
   "repos": [
-    {
-      "repo_url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "owner": "pewdiepie-archdaemon",
-      "name": "odysseus",
-      "description": "Self-hosted AI workspace. ",
-      "language": "Python",
-      "stars_gained": 2299,
-      "rank": 1
-    },
     {
       "repo_url": "https://github.com/DietrichGebert/ponytail",
       "owner": "DietrichGebert",
       "name": "ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_gained": 1555,
+      "stars_gained": 1590,
+      "rank": 1
+    },
+    {
+      "repo_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "owner": "pewdiepie-archdaemon",
+      "name": "odysseus",
+      "description": "Self-hosted AI workspace. ",
+      "language": "Python",
+      "stars_gained": 2060,
       "rank": 2
     },
     {
@@ -27,7 +27,7 @@
       "name": "headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars_gained": 1580,
+      "stars_gained": 1569,
       "rank": 3
     },
     {
@@ -36,7 +36,7 @@
       "name": "Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_gained": 846,
+      "stars_gained": 871,
       "rank": 4
     },
     {
@@ -45,7 +45,7 @@
       "name": "last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_gained": 857,
+      "stars_gained": 869,
       "rank": 5
     },
     {
@@ -54,17 +54,8 @@
       "name": "OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_gained": 529,
+      "stars_gained": 558,
       "rank": 6
-    },
-    {
-      "repo_url": "https://github.com/Egonex-AI/Understand-Anything",
-      "owner": "Egonex-AI",
-      "name": "Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "TypeScript",
-      "stars_gained": 723,
-      "rank": 7
     },
     {
       "repo_url": "https://github.com/colbymchenry/codegraph",
@@ -72,7 +63,16 @@
       "name": "codegraph",
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_gained": 751,
+      "stars_gained": 721,
+      "rank": 7
+    },
+    {
+      "repo_url": "https://github.com/Egonex-AI/Understand-Anything",
+      "owner": "Egonex-AI",
+      "name": "Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars_gained": 688,
       "rank": 8
     },
     {
@@ -81,7 +81,7 @@
       "name": "codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_gained": 453,
+      "stars_gained": 478,
       "rank": 9
     },
     {
@@ -90,7 +90,7 @@
       "name": "daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_gained": 347,
+      "stars_gained": 361,
       "rank": 10
     },
     {
@@ -99,7 +99,7 @@
       "name": "container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
       "language": "Swift",
-      "stars_gained": 513,
+      "stars_gained": 521,
       "rank": 11
     },
     {
@@ -108,7 +108,7 @@
       "name": "CodexPlusPlus",
       "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
       "language": "Rust",
-      "stars_gained": 425,
+      "stars_gained": 411,
       "rank": 12
     },
     {
@@ -117,26 +117,8 @@
       "name": "MiMo-Code",
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
-      "stars_gained": 368,
+      "stars_gained": 369,
       "rank": 13
-    },
-    {
-      "repo_url": "https://github.com/alibaba/open-code-review",
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_gained": 419,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_gained": 357,
-      "rank": 15
     },
     {
       "repo_url": "https://github.com/hugohe3/ppt-master",
@@ -144,8 +126,17 @@
       "name": "ppt-master",
       "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
       "language": "Python",
-      "stars_gained": 329,
-      "rank": 16
+      "stars_gained": 333,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/alibaba/open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_gained": 414,
+      "rank": 15
     },
     {
       "repo_url": "https://github.com/palmier-io/palmier-pro",
@@ -153,8 +144,8 @@
       "name": "palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars_gained": 280,
-      "rank": 17
+      "stars_gained": 282,
+      "rank": 16
     },
     {
       "repo_url": "https://github.com/lfnovo/open-notebook",
@@ -162,7 +153,16 @@
       "name": "open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_gained": 413,
+      "stars_gained": 417,
+      "rank": 17
+    },
+    {
+      "repo_url": "https://github.com/NVIDIA/SkillSpector",
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars_gained": 313,
       "rank": 18
     },
     {
@@ -175,22 +175,13 @@
       "rank": 19
     },
     {
-      "repo_url": "https://github.com/NVIDIA/SkillSpector",
-      "owner": "NVIDIA",
-      "name": "SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "repo_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_gained": 313,
+      "stars_gained": 341,
       "rank": 20
-    },
-    {
-      "repo_url": "https://github.com/Imbad0202/academic-research-skills",
-      "owner": "Imbad0202",
-      "name": "academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "stars_gained": 317,
-      "rank": 21
     },
     {
       "repo_url": "https://github.com/rtk-ai/rtk",
@@ -198,7 +189,16 @@
       "name": "rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
-      "stars_gained": 304,
+      "stars_gained": 309,
+      "rank": 21
+    },
+    {
+      "repo_url": "https://github.com/Imbad0202/academic-research-skills",
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars_gained": 315,
       "rank": 22
     },
     {
@@ -207,16 +207,16 @@
       "name": "pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": "",
-      "stars_gained": 299,
+      "stars_gained": 302,
       "rank": 23
     },
     {
-      "repo_url": "https://github.com/pbakaus/impeccable",
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars_gained": 326,
+      "repo_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_gained": 268,
       "rank": 24
     },
     {
@@ -225,17 +225,26 @@
       "name": "hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars_gained": 315,
+      "stars_gained": 308,
       "rank": 25
     },
     {
-      "repo_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "owner": "mukul975",
-      "name": "Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_gained": 267,
+      "repo_url": "https://github.com/pbakaus/impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_gained": 310,
       "rank": 26
+    },
+    {
+      "repo_url": "https://github.com/tashfeenahmed/freellmapi",
+      "owner": "tashfeenahmed",
+      "name": "freellmapi",
+      "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars_gained": 271,
+      "rank": 27
     },
     {
       "repo_url": "https://github.com/unicity-astrid/astrid",
@@ -244,7 +253,7 @@
       "description": "An operating system for AI agents.",
       "language": "Rust",
       "stars_gained": 404,
-      "rank": 27
+      "rank": 28
     },
     {
       "repo_url": "https://github.com/Yuan1z0825/nature-skills",
@@ -252,8 +261,17 @@
       "name": "nature-skills",
       "description": "符合nature论文学术表达和科研绘图的Skill",
       "language": "Python",
-      "stars_gained": 292,
-      "rank": 28
+      "stars_gained": 279,
+      "rank": 29
+    },
+    {
+      "repo_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "owner": "JCodesMore",
+      "name": "ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "stars_gained": 202,
+      "rank": 30
     },
     {
       "repo_url": "https://github.com/OpenBMB/VoxCPM",
@@ -261,17 +279,17 @@
       "name": "VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_gained": 331,
-      "rank": 29
+      "stars_gained": 304,
+      "rank": 31
     },
     {
-      "repo_url": "https://github.com/tashfeenahmed/freellmapi",
-      "owner": "tashfeenahmed",
-      "name": "freellmapi",
-      "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "repo_url": "https://github.com/jamiepine/voicebox",
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_gained": 262,
-      "rank": 30
+      "stars_gained": 197,
+      "rank": 32
     },
     {
       "repo_url": "https://github.com/unicity-astrid/sdk-js",
@@ -280,7 +298,7 @@
       "description": "JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust.",
       "language": "TypeScript",
       "stars_gained": 346,
-      "rank": 31
+      "rank": 33
     },
     {
       "repo_url": "https://github.com/clent267/FUNCAPTCHAV3",
@@ -289,24 +307,6 @@
       "description": "",
       "language": "Python",
       "stars_gained": 113,
-      "rank": 32
-    },
-    {
-      "repo_url": "https://github.com/jamiepine/voicebox",
-      "owner": "jamiepine",
-      "name": "voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_gained": 182,
-      "rank": 33
-    },
-    {
-      "repo_url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "owner": "JCodesMore",
-      "name": "ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "language": "TypeScript",
-      "stars_gained": 187,
       "rank": 34
     },
     {
@@ -315,8 +315,17 @@
       "name": "Mineradio",
       "description": "一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。",
       "language": "HTML",
-      "stars_gained": 152,
+      "stars_gained": 161,
       "rank": 35
+    },
+    {
+      "repo_url": "https://github.com/HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_gained": 209,
+      "rank": 36
     },
     {
       "repo_url": "https://github.com/xbtlin/ai-berkshire",
@@ -324,25 +333,16 @@
       "name": "ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_gained": 143,
-      "rank": 36
-    },
-    {
-      "repo_url": "https://github.com/KunAgent/Kun",
-      "owner": "KunAgent",
-      "name": "Kun",
-      "description": "AI agent workspace with Code and Write modes built into your application.",
-      "language": "TypeScript",
-      "stars_gained": 233,
+      "stars_gained": 156,
       "rank": 37
     },
     {
-      "repo_url": "https://github.com/Alishahryar1/free-claude-code",
-      "owner": "Alishahryar1",
-      "name": "free-claude-code",
-      "description": "Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
-      "language": "Python",
-      "stars_gained": 185,
+      "repo_url": "https://github.com/stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_gained": 172,
       "rank": 38
     },
     {
@@ -351,7 +351,7 @@
       "name": "tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_gained": 219,
+      "stars_gained": 226,
       "rank": 39
     },
     {
@@ -364,13 +364,31 @@
       "rank": 40
     },
     {
+      "repo_url": "https://github.com/Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "description": "Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "stars_gained": 183,
+      "rank": 41
+    },
+    {
+      "repo_url": "https://github.com/topoteretes/cognee",
+      "owner": "topoteretes",
+      "name": "cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars_gained": 181,
+      "rank": 42
+    },
+    {
       "repo_url": "https://github.com/microsoft/SkillOpt",
       "owner": "microsoft",
       "name": "SkillOpt",
       "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
       "language": "Python",
-      "stars_gained": 200,
-      "rank": 41
+      "stars_gained": 197,
+      "rank": 43
     },
     {
       "repo_url": "https://github.com/shadcn/improve",
@@ -378,34 +396,16 @@
       "name": "improve",
       "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "language": "",
-      "stars_gained": 199,
-      "rank": 42
-    },
-    {
-      "repo_url": "https://github.com/roboflow/supervision",
-      "owner": "roboflow",
-      "name": "supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "stars_gained": 275,
-      "rank": 43
-    },
-    {
-      "repo_url": "https://github.com/StarTrail-org/PixelRAG",
-      "owner": "StarTrail-org",
-      "name": "PixelRAG",
-      "description": "The end of web parsing. The beginning of scalable pixel-native search.",
-      "language": "Python",
-      "stars_gained": 153,
+      "stars_gained": 202,
       "rank": 44
     },
     {
-      "repo_url": "https://github.com/EpicGames/lore",
-      "owner": "EpicGames",
-      "name": "lore",
-      "description": "Lore is a next-generation, open source version control system",
-      "language": "Rust",
-      "stars_gained": 158,
+      "repo_url": "https://github.com/KunAgent/Kun",
+      "owner": "KunAgent",
+      "name": "Kun",
+      "description": "AI agent workspace with Code and Write modes built into your application.",
+      "language": "TypeScript",
+      "stars_gained": 228,
       "rank": 45
     },
     {
@@ -414,43 +414,43 @@
       "name": "omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "language": "Python",
-      "stars_gained": 161,
+      "stars_gained": 165,
       "rank": 46
     },
     {
-      "repo_url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "owner": "shanraisshan",
-      "name": "claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "language": "HTML",
-      "stars_gained": 165,
+      "repo_url": "https://github.com/roboflow/supervision",
+      "owner": "roboflow",
+      "name": "supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_gained": 279,
       "rank": 47
     },
     {
-      "repo_url": "https://github.com/topoteretes/cognee",
-      "owner": "topoteretes",
-      "name": "cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "stars_gained": 170,
+      "repo_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_gained": 184,
       "rank": 48
     },
     {
-      "repo_url": "https://github.com/GoogleCloudPlatform/knowledge-catalog",
-      "owner": "GoogleCloudPlatform",
-      "name": "knowledge-catalog",
-      "description": "Google Cloud Knowledge Catalog Tools and Samples",
-      "language": "HTML",
-      "stars_gained": 166,
+      "repo_url": "https://github.com/StarTrail-org/PixelRAG",
+      "owner": "StarTrail-org",
+      "name": "PixelRAG",
+      "description": "The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/",
+      "language": "Python",
+      "stars_gained": 154,
       "rank": 49
     },
     {
-      "repo_url": "https://github.com/penpot/penpot",
-      "owner": "penpot",
-      "name": "penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars_gained": 195,
+      "repo_url": "https://github.com/EpicGames/lore",
+      "owner": "EpicGames",
+      "name": "lore",
+      "description": "Lore is a next-generation, open source version control system",
+      "language": "Rust",
+      "stars_gained": 160,
       "rank": 50
     }
   ]
