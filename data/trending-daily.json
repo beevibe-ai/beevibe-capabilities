@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-08T13:27:48.189Z",
+  "fetched_at": "2026-07-09T14:27:39.974Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
@@ -9,25 +9,25 @@
       "name": "ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars_gained": 39,
+      "stars_gained": 8,
       "rank": 1
     },
     {
-      "repo_url": "https://github.com/iOfficeAI/OfficeCLI",
-      "owner": "iOfficeAI",
-      "name": "OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_gained": 12,
+      "repo_url": "https://github.com/generative-computing/mellea",
+      "owner": "generative-computing",
+      "name": "mellea",
+      "description": "Mellea is a library for writing generative programs. ",
+      "language": "Python",
+      "stars_gained": 6,
       "rank": 2
     },
     {
-      "repo_url": "https://github.com/Shpigford/knockoff",
-      "owner": "Shpigford",
-      "name": "knockoff",
-      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "language": "JavaScript",
-      "stars_gained": 11,
+      "repo_url": "https://github.com/bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_gained": 6,
       "rank": 3
     },
     {
@@ -36,26 +36,17 @@
       "name": "herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_gained": 8,
+      "stars_gained": 6,
       "rank": 4
     },
     {
-      "repo_url": "https://github.com/langchain-ai/openwiki",
-      "owner": "langchain-ai",
-      "name": "openwiki",
-      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "repo_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "owner": "JCodesMore",
+      "name": "ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_gained": 8,
+      "stars_gained": 4,
       "rank": 5
-    },
-    {
-      "repo_url": "https://github.com/diegosouzapw/OmniRoute",
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "stars_gained": 7,
-      "rank": 6
     },
     {
       "repo_url": "https://github.com/calesthio/OpenMontage",
@@ -64,97 +55,7 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "stars_gained": 5,
-      "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/kyutai-labs/pocket-tts",
-      "owner": "kyutai-labs",
-      "name": "pocket-tts",
-      "description": "A TTS that fits in your CPU (and pocket)",
-      "language": "Python",
-      "stars_gained": 5,
-      "rank": 8
-    },
-    {
-      "repo_url": "https://github.com/xuchonglang/investing-for-beginners",
-      "owner": "xuchonglang",
-      "name": "investing-for-beginners",
-      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-      "language": "",
-      "stars_gained": 4,
-      "rank": 9
-    },
-    {
-      "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
-      "owner": "DeusData",
-      "name": "codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_gained": 4,
-      "rank": 10
-    },
-    {
-      "repo_url": "https://github.com/usestrix/strix",
-      "owner": "usestrix",
-      "name": "strix",
-      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_gained": 5,
-      "rank": 11
-    },
-    {
-      "repo_url": "https://github.com/TencentCloud/CubeSandbox",
-      "owner": "TencentCloud",
-      "name": "CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Rust",
-      "stars_gained": 5,
-      "rank": 12
-    },
-    {
-      "repo_url": "https://github.com/Imbad0202/academic-research-skills",
-      "owner": "Imbad0202",
-      "name": "academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "stars_gained": 4,
-      "rank": 13
-    },
-    {
-      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
-      "owner": "Yuan1z0825",
-      "name": "nature-skills",
-      "description": "符合nature论文学术表达和科研绘图的Skill",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "owner": "AgriciDaniel",
-      "name": "claude-obsidian",
-      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 15
-    },
-    {
-      "repo_url": "https://github.com/oomol-lab/open-connector",
-      "owner": "oomol-lab",
-      "name": "open-connector",
-      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "language": "TypeScript",
-      "stars_gained": 4,
-      "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/openai/codex-plugin-cc",
-      "owner": "openai",
-      "name": "codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars_gained": 3,
-      "rank": 17
+      "rank": 6
     },
     {
       "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
@@ -163,52 +64,52 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "stars_gained": 3,
-      "rank": 18
+      "rank": 7
     },
     {
-      "repo_url": "https://github.com/tutti-os/tutti",
-      "owner": "tutti-os",
-      "name": "tutti",
-      "description": "Where people and agents build in tune.",
-      "language": "TypeScript",
-      "stars_gained": 3,
-      "rank": 19
-    },
-    {
-      "repo_url": "https://github.com/teamchong/pxpipe",
-      "owner": "teamchong",
-      "name": "pxpipe",
-      "description": "cut Fable 5 token usage by rendering text context as images",
-      "language": "TypeScript",
-      "stars_gained": 3,
-      "rank": 20
-    },
-    {
-      "repo_url": "https://github.com/steipete/CodexBar",
-      "owner": "steipete",
-      "name": "CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "language": "Swift",
-      "stars_gained": 3,
-      "rank": 21
-    },
-    {
-      "repo_url": "https://github.com/jamiepine/voicebox",
-      "owner": "jamiepine",
-      "name": "voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_gained": 3,
-      "rank": 22
-    },
-    {
-      "repo_url": "https://github.com/pbakaus/impeccable",
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "description": "The design language that makes your AI harness better at design.",
+      "repo_url": "https://github.com/openai/codex-plugin-cc",
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
+      "stars_gained": 2,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/microsoft/flint-chart",
+      "owner": "microsoft",
+      "name": "flint-chart",
+      "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.",
+      "language": "TypeScript",
       "stars_gained": 3,
-      "rank": 23
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/TencentCloud/CubeSandbox",
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars_gained": 3,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/Wei-Shaw/sub2api",
+      "owner": "Wei-Shaw",
+      "name": "sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "stars_gained": 4,
+      "rank": 11
+    },
+    {
+      "repo_url": "https://github.com/paullarionov/claude-certified-architect",
+      "owner": "paullarionov",
+      "name": "claude-certified-architect",
+      "description": "This repository contains study materials for the **Claude Certified Architect — Foundations** certification.",
+      "language": "HTML",
+      "stars_gained": 3,
+      "rank": 12
     },
     {
       "repo_url": "https://github.com/stablyai/orca",
@@ -216,60 +117,159 @@
       "name": "orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
+      "stars_gained": 3,
+      "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+      "owner": "Astro-Han",
+      "name": "karpathy-llm-wiki",
+      "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.",
+      "language": "",
+      "stars_gained": 2,
+      "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/Shpigford/knockoff",
+      "owner": "Shpigford",
+      "name": "knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stars_gained": 3,
+      "rank": 16
+    },
+    {
+      "repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 17
+    },
+    {
+      "repo_url": "https://github.com/kyutai-labs/pocket-tts",
+      "owner": "kyutai-labs",
+      "name": "pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 18
+    },
+    {
+      "repo_url": "https://github.com/chriswritescode-dev/opencode-manager",
+      "owner": "chriswritescode-dev",
+      "name": "opencode-manager",
+      "description": "Mobile-first web interface for OpenCode AI agents. Manage, control, and code with multiple OpenCode agents from any device - your phone, tablet, or desktop. Features Git integration, file management, and real-time chat in a responsive PWA. Deploy with Docker for instant setup.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 19
+    },
+    {
+      "repo_url": "https://github.com/shepherd-agents/shepherd",
+      "owner": "shepherd-agents",
+      "name": "shepherd",
+      "description": "A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 20
+    },
+    {
+      "repo_url": "https://github.com/halilkirazkaya/arsenal-ng",
+      "owner": "halilkirazkaya",
+      "name": "arsenal-ng",
+      "description": "The classic launcher, evolved. Fast, Go-based command library equipped with 200+ cybersecurity cheat-sheets. Just install and start hacking.",
+      "language": "Go",
+      "stars_gained": 2,
+      "rank": 21
+    },
+    {
+      "repo_url": "https://github.com/AgriciDaniel/claude-seo",
+      "owner": "AgriciDaniel",
+      "name": "claude-seo",
+      "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 22
+    },
+    {
+      "repo_url": "https://github.com/alirezarezvani/claude-skills",
+      "owner": "alirezarezvani",
+      "name": "claude-skills",
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "stars_gained": 1,
+      "rank": 23
+    },
+    {
+      "repo_url": "https://github.com/coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
       "stars_gained": 2,
       "rank": 24
     },
     {
-      "repo_url": "https://github.com/Robbyant/lingbot-map",
-      "owner": "Robbyant",
-      "name": "lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
+      "repo_url": "https://github.com/mekos2772/ios-location-spoofer",
+      "owner": "mekos2772",
+      "name": "ios-location-spoofer",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "language": "JavaScript",
       "stars_gained": 2,
       "rank": 25
     },
     {
-      "repo_url": "https://github.com/MiniMax-AI/skills",
-      "owner": "MiniMax-AI",
-      "name": "skills",
-      "description": "",
-      "language": "C#",
+      "repo_url": "https://github.com/erincatto/box3d",
+      "owner": "erincatto",
+      "name": "box3d",
+      "description": "Box3D is a 3D physics engine for games",
+      "language": "C",
       "stars_gained": 2,
       "rank": 26
     },
     {
-      "repo_url": "https://github.com/Formsmith746/SketchForge-3D",
-      "owner": "Formsmith746",
-      "name": "SketchForge-3D",
-      "description": "A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models.",
-      "language": "TypeScript",
+      "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
       "stars_gained": 2,
       "rank": 27
     },
     {
-      "repo_url": "https://github.com/volcengine/OpenViking",
-      "owner": "volcengine",
-      "name": "OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "repo_url": "https://github.com/usestrix/strix",
+      "owner": "usestrix",
+      "name": "strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "stars_gained": 2,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/anysearch-ai/anysearch-skill",
-      "owner": "anysearch-ai",
-      "name": "anysearch-skill",
-      "description": "Unified real-time search engine skill for AI agents. ",
-      "language": "Python",
+      "repo_url": "https://github.com/unicity-sphere/sphere",
+      "owner": "unicity-sphere",
+      "name": "sphere",
+      "description": "A Web3 wallet and agent platform for the Unicity network - dual-layer crypto wallet, DMs, group chat, and marketplace.",
+      "language": "TypeScript",
       "stars_gained": 2,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/echo-loop/Echo-Loop",
-      "owner": "echo-loop",
-      "name": "Echo-Loop",
-      "description": "Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。",
-      "language": "Dart",
+      "repo_url": "https://github.com/microsoft/SkillOpt",
+      "owner": "microsoft",
+      "name": "SkillOpt",
+      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "language": "Python",
       "stars_gained": 2,
       "rank": 30
     }
