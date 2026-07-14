@@ -1,25 +1,43 @@
 {
-  "fetched_at": "2026-07-13T14:00:59.724Z",
+  "fetched_at": "2026-07-14T13:03:55.971Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
     {
-      "repo_url": "https://github.com/HKUDS/Vibe-Trading",
-      "owner": "HKUDS",
-      "name": "Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars_gained": 6,
+      "repo_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_gained": 4,
       "rank": 1
     },
     {
-      "repo_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "owner": "Dicklesworthstone",
-      "name": "destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "stars_gained": 5,
+      "repo_url": "https://github.com/braedonsaunders/codeflow",
+      "owner": "braedonsaunders",
+      "name": "codeflow",
+      "description": "Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.",
+      "language": "HTML",
+      "stars_gained": 3,
       "rank": 2
+    },
+    {
+      "repo_url": "https://github.com/bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 3
+    },
+    {
+      "repo_url": "https://github.com/raroque/boop-agent",
+      "owner": "raroque",
+      "name": "boop-agent",
+      "description": "iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations.",
+      "language": "TypeScript",
+      "stars_gained": 3,
+      "rank": 4
     },
     {
       "repo_url": "https://github.com/OpenBMB/VoxCPM",
@@ -27,161 +45,8 @@
       "name": "VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars_gained": 2,
-      "rank": 3
-    },
-    {
-      "repo_url": "https://github.com/calesthio/OpenMontage",
-      "owner": "calesthio",
-      "name": "OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 4
-    },
-    {
-      "repo_url": "https://github.com/stablyai/orca",
-      "owner": "stablyai",
-      "name": "orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
       "stars_gained": 3,
       "rank": 5
-    },
-    {
-      "repo_url": "https://github.com/diegosouzapw/OmniRoute",
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "stars_gained": 3,
-      "rank": 6
-    },
-    {
-      "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
-      "owner": "DeusData",
-      "name": "codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_gained": 3,
-      "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/JuneYaooo/nihaisha-nishi-tcm",
-      "owner": "JuneYaooo",
-      "name": "nihaisha-nishi-tcm",
-      "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haisha TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing.",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 8
-    },
-    {
-      "repo_url": "https://github.com/ogulcancelik/herdr",
-      "owner": "ogulcancelik",
-      "name": "herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars_gained": 3,
-      "rank": 9
-    },
-    {
-      "repo_url": "https://github.com/dnshe/DNSHE-FreeDomains",
-      "owner": "dnshe",
-      "name": "DNSHE-FreeDomains",
-      "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
-      "language": "",
-      "stars_gained": 3,
-      "rank": 10
-    },
-    {
-      "repo_url": "https://github.com/oso95/scroll-world",
-      "owner": "oso95",
-      "name": "scroll-world",
-      "description": "A skill that turn any brand into a scrollable 3D world",
-      "language": "JavaScript",
-      "stars_gained": 3,
-      "rank": 11
-    },
-    {
-      "repo_url": "https://github.com/THU-MAIC/OpenMAIC",
-      "owner": "THU-MAIC",
-      "name": "OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "stars_gained": 2,
-      "rank": 12
-    },
-    {
-      "repo_url": "https://github.com/microsoft/ResearchStudio",
-      "owner": "microsoft",
-      "name": "ResearchStudio",
-      "description": "ResearchStudio: Our AI co-author, from research problem to final publication.",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 13
-    },
-    {
-      "repo_url": "https://github.com/HBAI-Ltd/Toonflow-app",
-      "owner": "HBAI-Ltd",
-      "name": "Toonflow-app",
-      "description": "Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
-      "language": "TypeScript",
-      "stars_gained": 2,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/dramaclaw/dramaclaw",
-      "owner": "dramaclaw",
-      "name": "dramaclaw",
-      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
-      "language": "TypeScript",
-      "stars_gained": 2,
-      "rank": 15
-    },
-    {
-      "repo_url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "owner": "AIDC-AI",
-      "name": "Pixelle-Video",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/x4gKing/X4G",
-      "owner": "x4gKing",
-      "name": "X4G",
-      "description": "",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 17
-    },
-    {
-      "repo_url": "https://github.com/basketikun/chatgpt2api",
-      "owner": "basketikun",
-      "name": "chatgpt2api",
-      "description": "ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 18
-    },
-    {
-      "repo_url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "owner": "hasaneyldrm",
-      "name": "exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "language": "HTML",
-      "stars_gained": 2,
-      "rank": 19
-    },
-    {
-      "repo_url": "https://github.com/laoma2053/awesome-zhuiju-free",
-      "owner": "laoma2053",
-      "name": "awesome-zhuiju-free",
-      "description": "人工精选的免费无广告追剧资源导航，每日自动检测可用性。收录在线影视、影视APP、网盘搜索、磁力 BT、字幕、TVBox / 影视仓配置地址、IPTV 订阅源。开源，社区共同维护。",
-      "language": "JavaScript",
-      "stars_gained": 2,
-      "rank": 20
     },
     {
       "repo_url": "https://github.com/emilkowalski/skills",
@@ -190,86 +55,221 @@
       "description": "Skills for Design Engineers.",
       "language": "",
       "stars_gained": 3,
+      "rank": 6
+    },
+    {
+      "repo_url": "https://github.com/heygen-com/hyperframes",
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 7
+    },
+    {
+      "repo_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/Alpha-Dojo/DojoAgents",
+      "owner": "Alpha-Dojo",
+      "name": "DojoAgents",
+      "description": "DojoAgents: Full-Market AI Copilot for Personal Investment",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "language": "HTML",
+      "stars_gained": 2,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_gained": 2,
+      "rank": 11
+    },
+    {
+      "repo_url": "https://github.com/palmier-io/palmier-pro",
+      "owner": "palmier-io",
+      "name": "palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_gained": 2,
+      "rank": 12
+    },
+    {
+      "repo_url": "https://github.com/eatmoreduck/boss-zhipin-scraper",
+      "owner": "eatmoreduck",
+      "name": "boss-zhipin-scraper",
+      "description": "Boss直聘爬虫 / BOSS直聘职位数据抓取工具，基于 Chrome CDP 协议复用真实登录态，绕过字体反爬，输出明文薪资 JSON/CSV + 薪资技能分析。A Chrome-CDP-based BOSS Zhipin job scraper/crawler.",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/intercom/2x-skills",
+      "owner": "intercom",
+      "name": "2x-skills",
+      "description": "A collection of claude skills we think are generic enough to be useful to everyone",
+      "language": "",
+      "stars_gained": 2,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_gained": 2,
+      "rank": 16
+    },
+    {
+      "repo_url": "https://github.com/multica-ai/multica",
+      "owner": "multica-ai",
+      "name": "multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "Go",
+      "stars_gained": 2,
+      "rank": 17
+    },
+    {
+      "repo_url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant",
+      "owner": "Natively-AI-assistant",
+      "name": "natively-cluely-ai-assistant",
+      "description": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, and Interview Coder. Real-time transcription, AI meeting notes, lecture recording, local RAG, BYOK, and stealth mode. Runs locally. No subscriptions. No data breaches.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 18
+    },
+    {
+      "repo_url": "https://github.com/David-Crty/databasement",
+      "owner": "David-Crty",
+      "name": "databasement",
+      "description": "Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, or local storage. SSH Tunnel support.",
+      "language": "PHP",
+      "stars_gained": 2,
+      "rank": 19
+    },
+    {
+      "repo_url": "https://github.com/nashsu/llm_wiki",
+      "owner": "nashsu",
+      "name": "llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 20
+    },
+    {
+      "repo_url": "https://github.com/calesthio/OpenMontage",
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_gained": 2,
       "rank": 21
     },
     {
-      "repo_url": "https://github.com/IR-NETLIFY/zeus",
-      "owner": "IR-NETLIFY",
-      "name": "zeus",
-      "description": "⚡️ پنل کلودفلر زئوس (Zeus Panel) https://t.me/ZEUS_PANEL_BOT",
-      "language": "JavaScript",
-      "stars_gained": 1,
+      "repo_url": "https://github.com/dnshe/DNSHE-FreeDomains",
+      "owner": "dnshe",
+      "name": "DNSHE-FreeDomains",
+      "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
+      "language": "",
+      "stars_gained": 2,
       "rank": 22
     },
     {
-      "repo_url": "https://github.com/Mesh-LLM/mesh-llm",
-      "owner": "Mesh-LLM",
-      "name": "mesh-llm",
-      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
-      "language": "Rust",
-      "stars_gained": 3,
+      "repo_url": "https://github.com/AnmolSaini16/mapcn",
+      "owner": "AnmolSaini16",
+      "name": "mapcn",
+      "description": "Beautiful map components. 100% Free, Zero config, one command setup.",
+      "language": "TypeScript",
+      "stars_gained": 2,
       "rank": 23
     },
     {
-      "repo_url": "https://github.com/mvanhorn/last30days-skill",
-      "owner": "mvanhorn",
-      "name": "last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "repo_url": "https://github.com/HKUDS/nanobot",
+      "owner": "HKUDS",
+      "name": "nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
       "language": "Python",
-      "stars_gained": 1,
+      "stars_gained": 2,
       "rank": 24
     },
     {
-      "repo_url": "https://github.com/modem-dev/hunk",
-      "owner": "modem-dev",
-      "name": "hunk",
-      "description": "Review-first terminal diff viewer for agentic coders",
-      "language": "TypeScript",
+      "repo_url": "https://github.com/TencentCloud/CubeSandbox",
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
       "stars_gained": 2,
       "rank": 25
     },
     {
-      "repo_url": "https://github.com/cactus-compute/needle",
-      "owner": "cactus-compute",
-      "name": "needle",
-      "description": "26m function call model that runs on incredibly small devices",
+      "repo_url": "https://github.com/RICHQAQ/PasteMD",
+      "owner": "RICHQAQ",
+      "name": "PasteMD",
+      "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
       "language": "Python",
-      "stars_gained": 2,
+      "stars_gained": 1,
       "rank": 26
     },
     {
-      "repo_url": "https://github.com/nesquena/hermes-webui",
-      "owner": "nesquena",
-      "name": "hermes-webui",
-      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "language": "Python",
+      "repo_url": "https://github.com/pbakaus/impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
       "stars_gained": 2,
       "rank": 27
     },
     {
-      "repo_url": "https://github.com/jamiepine/voicebox",
-      "owner": "jamiepine",
-      "name": "voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
+      "repo_url": "https://github.com/TableProApp/TablePro",
+      "owner": "TableProApp",
+      "name": "TablePro",
+      "description": "Native macOS client for every database",
+      "language": "Swift",
       "stars_gained": 2,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/Yu9191/wloc",
-      "owner": "Yu9191",
-      "name": "wloc",
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "language": "JavaScript",
+      "repo_url": "https://github.com/darrylmorley/whatcable",
+      "owner": "darrylmorley",
+      "name": "whatcable",
+      "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+      "language": "Swift",
       "stars_gained": 2,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/cobusgreyling/loop-engineering",
-      "owner": "cobusgreyling",
-      "name": "loop-engineering",
-      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-      "language": "JavaScript",
+      "repo_url": "https://github.com/zhishile/codex-auth-helper",
+      "owner": "zhishile",
+      "name": "codex-auth-helper",
+      "description": "Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。",
+      "language": "CSS",
       "stars_gained": 1,
       "rank": 30
     }
