@@ -1,214 +1,43 @@
 {
-  "fetched_at": "2026-07-20T13:45:16.918Z",
+  "fetched_at": "2026-07-21T13:13:24.832Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
-    {
-      "repo_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_gained": 5,
-      "rank": 1
-    },
     {
       "repo_url": "https://github.com/diegosouzapw/OmniRoute",
       "owner": "diegosouzapw",
       "name": "OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
+      "stars_gained": 5,
+      "rank": 1
+    },
+    {
+      "repo_url": "https://github.com/lidge-jun/opencodex",
+      "owner": "lidge-jun",
+      "name": "opencodex",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "language": "TypeScript",
       "stars_gained": 3,
       "rank": 2
     },
     {
-      "repo_url": "https://github.com/MoonshotAI/kimi-cli",
-      "owner": "MoonshotAI",
-      "name": "kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
+      "repo_url": "https://github.com/baidu/Unlimited-OCR",
+      "owner": "baidu",
+      "name": "Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "language": "Python",
-      "stars_gained": 5,
+      "stars_gained": 3,
       "rank": 3
     },
     {
-      "repo_url": "https://github.com/emilkowalski/skills",
-      "owner": "emilkowalski",
-      "name": "skills",
-      "description": "Skills for Design Engineers.",
-      "language": "",
+      "repo_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
       "stars_gained": 3,
       "rank": 4
-    },
-    {
-      "repo_url": "https://github.com/ogulcancelik/herdr",
-      "owner": "ogulcancelik",
-      "name": "herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars_gained": 4,
-      "rank": 5
-    },
-    {
-      "repo_url": "https://github.com/HKUDS/Vibe-Trading",
-      "owner": "HKUDS",
-      "name": "Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 6
-    },
-    {
-      "repo_url": "https://github.com/MadsLorentzen/ai-job-search",
-      "owner": "MadsLorentzen",
-      "name": "ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "language": "TypeScript",
-      "stars_gained": 3,
-      "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/iflytek/astron-rpa",
-      "owner": "iflytek",
-      "name": "astron-rpa",
-      "description": "Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.",
-      "language": "Java",
-      "stars_gained": 4,
-      "rank": 8
-    },
-    {
-      "repo_url": "https://github.com/laoma2053/awesome-zhuiju-free",
-      "owner": "laoma2053",
-      "name": "awesome-zhuiju-free",
-      "description": "人工精选的免费无广告追剧资源导航，每日自动检测可用性。收录在线影视、影视APP、网盘搜索、磁力 BT、字幕、TVBox / 影视仓配置地址、IPTV 订阅源。开源，社区共同维护。",
-      "language": "JavaScript",
-      "stars_gained": 4,
-      "rank": 9
-    },
-    {
-      "repo_url": "https://github.com/HKUDS/DeepTutor",
-      "owner": "HKUDS",
-      "name": "DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 10
-    },
-    {
-      "repo_url": "https://github.com/hoainho/img2threejs",
-      "owner": "hoainho",
-      "name": "img2threejs",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 11
-    },
-    {
-      "repo_url": "https://github.com/usestrix/strix",
-      "owner": "usestrix",
-      "name": "strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 12
-    },
-    {
-      "repo_url": "https://github.com/stupside/castor",
-      "owner": "stupside",
-      "name": "castor",
-      "description": "Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….",
-      "language": "Go",
-      "stars_gained": 3,
-      "rank": 13
-    },
-    {
-      "repo_url": "https://github.com/coreyhaines31/marketingskills",
-      "owner": "coreyhaines31",
-      "name": "marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "stars_gained": 2,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/langchain-ai/openwiki",
-      "owner": "langchain-ai",
-      "name": "openwiki",
-      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-      "language": "TypeScript",
-      "stars_gained": 2,
-      "rank": 15
-    },
-    {
-      "repo_url": "https://github.com/dramaclaw/dramaclaw",
-      "owner": "dramaclaw",
-      "name": "dramaclaw",
-      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
-      "language": "TypeScript",
-      "stars_gained": 2,
-      "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/1jehuang/jcode",
-      "owner": "1jehuang",
-      "name": "jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_gained": 2,
-      "rank": 17
-    },
-    {
-      "repo_url": "https://github.com/MatheuZSecurity/Furtex",
-      "owner": "MatheuZSecurity",
-      "name": "Furtex",
-      "description": "Post-exploitation and evasion research toolkit for Linux.",
-      "language": "C",
-      "stars_gained": 2,
-      "rank": 18
-    },
-    {
-      "repo_url": "https://github.com/xuanyustudio/LocalMiniDrama",
-      "owner": "xuanyustudio",
-      "name": "LocalMiniDrama",
-      "description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
-      "language": "JavaScript",
-      "stars_gained": 2,
-      "rank": 19
-    },
-    {
-      "repo_url": "https://github.com/kunchenguid/firstmate",
-      "owner": "kunchenguid",
-      "name": "firstmate",
-      "description": "Talk to one agent. Ship with a crew.",
-      "language": "Shell",
-      "stars_gained": 2,
-      "rank": 20
-    },
-    {
-      "repo_url": "https://github.com/modem-dev/hunk",
-      "owner": "modem-dev",
-      "name": "hunk",
-      "description": "Review-first terminal diff viewer for agentic coders",
-      "language": "TypeScript",
-      "stars_gained": 2,
-      "rank": 21
-    },
-    {
-      "repo_url": "https://github.com/ConardLi/garden-skills",
-      "owner": "ConardLi",
-      "name": "garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "language": "CSS",
-      "stars_gained": 2,
-      "rank": 22
-    },
-    {
-      "repo_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "owner": "Donchitos",
-      "name": "Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
-      "stars_gained": 1,
-      "rank": 23
     },
     {
       "repo_url": "https://github.com/ibelick/ui-skills",
@@ -217,58 +46,229 @@
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
       "stars_gained": 3,
+      "rank": 5
+    },
+    {
+      "repo_url": "https://github.com/dnshe/DNSHE-FreeDomains",
+      "owner": "dnshe",
+      "name": "DNSHE-FreeDomains",
+      "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
+      "language": "",
+      "stars_gained": 3,
+      "rank": 6
+    },
+    {
+      "repo_url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "owner": "HBAI-Ltd",
+      "name": "Toonflow-app",
+      "description": "Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 7
+    },
+    {
+      "repo_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "owner": "Fei-Away",
+      "name": "Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars_gained": 2,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/can1357/oh-my-pi",
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/Yu9191/wloc",
+      "owner": "Yu9191",
+      "name": "wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "language": "JavaScript",
+      "stars_gained": 2,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/MoonshotAI/kimi-code",
+      "owner": "MoonshotAI",
+      "name": "kimi-code",
+      "description": "Kimi Code CLI  —  The Starting Point for Next-Gen Agents",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 11
+    },
+    {
+      "repo_url": "https://github.com/JustVugg/colibri",
+      "owner": "JustVugg",
+      "name": "colibri",
+      "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_gained": 2,
+      "rank": 12
+    },
+    {
+      "repo_url": "https://github.com/LanceZPF/agent-as-a-router",
+      "owner": "LanceZPF",
+      "name": "agent-as-a-router",
+      "description": "The official implementations of Agent-as-a-Router: Agentic Model Routing for Coding Tasks.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/UditAkhourii/adhd",
+      "owner": "UditAkhourii",
+      "name": "adhd",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_gained": 2,
+      "rank": 16
+    },
+    {
+      "repo_url": "https://github.com/coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_gained": 1,
+      "rank": 17
+    },
+    {
+      "repo_url": "https://github.com/x4gKing/X4G",
+      "owner": "x4gKing",
+      "name": "X4G",
+      "description": "",
+      "language": "Python",
+      "stars_gained": 1,
+      "rank": 18
+    },
+    {
+      "repo_url": "https://github.com/ReconWorldLab/godot-gaussian-splatting",
+      "owner": "ReconWorldLab",
+      "name": "godot-gaussian-splatting",
+      "description": "[GDGS] A real-time 3D Gaussian Splatting (3DGS) rendering plugin for the Godot Engine. Godot引擎的实时3DGS渲染插件",
+      "language": "GDScript",
+      "stars_gained": 1,
+      "rank": 19
+    },
+    {
+      "repo_url": "https://github.com/amplitude/builder-skills",
+      "owner": "amplitude",
+      "name": "builder-skills",
+      "description": "Open-source AI skills for product managers — battle-tested by PMs at Amplitude.",
+      "language": "",
+      "stars_gained": 1,
+      "rank": 20
+    },
+    {
+      "repo_url": "https://github.com/cdredfox/workbuddy-skin-studio",
+      "owner": "cdredfox",
+      "name": "workbuddy-skin-studio",
+      "description": "给 Workbuddy Desktop 一键换肤：一张图片就是一个主题，右上角菜单即时切换 | Reskin Workbuddy Desktop on macOS via loopback CDP injection",
+      "language": "JavaScript",
+      "stars_gained": 1,
+      "rank": 21
+    },
+    {
+      "repo_url": "https://github.com/bergside/awesome-design-skills",
+      "owner": "bergside",
+      "name": "awesome-design-skills",
+      "description": "List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools",
+      "language": "",
+      "stars_gained": 1,
+      "rank": 22
+    },
+    {
+      "repo_url": "https://github.com/Imbad0202/academic-research-skills-codex",
+      "owner": "Imbad0202",
+      "name": "academic-research-skills-codex",
+      "description": "Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows",
+      "language": "Python",
+      "stars_gained": 1,
+      "rank": 23
+    },
+    {
+      "repo_url": "https://github.com/hexiecs/talk-normal",
+      "owner": "hexiecs",
+      "name": "talk-normal",
+      "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
+      "language": "Shell",
+      "stars_gained": 1,
       "rank": 24
     },
     {
-      "repo_url": "https://github.com/iflytek/skillhub",
-      "owner": "iflytek",
-      "name": "skillhub",
-      "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
-      "language": "Java",
-      "stars_gained": 2,
+      "repo_url": "https://github.com/ComposioHQ/awesome-claude-plugins",
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-plugins",
+      "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
+      "language": "JavaScript",
+      "stars_gained": 1,
       "rank": 25
     },
     {
-      "repo_url": "https://github.com/microsoft/Ontology-Playground",
-      "owner": "microsoft",
-      "name": "Ontology-Playground",
-      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
-      "language": "TypeScript",
-      "stars_gained": 3,
+      "repo_url": "https://github.com/Alpha-Dojo/DojoAgents",
+      "owner": "Alpha-Dojo",
+      "name": "DojoAgents",
+      "description": "DojoAgents: Full-Market AI Copilot for Personal Investment",
+      "language": "Python",
+      "stars_gained": 1,
       "rank": 26
     },
     {
-      "repo_url": "https://github.com/Qualcomm-AI-research/MobileWan",
-      "owner": "Qualcomm-AI-research",
-      "name": "MobileWan",
-      "description": "Sampling code for MobileWan",
-      "language": "Python",
-      "stars_gained": 2,
+      "repo_url": "https://github.com/vinvcn/mattpocock-skills-zh-CN",
+      "owner": "vinvcn",
+      "name": "mattpocock-skills-zh-CN",
+      "description": "这是 mattpocock/skills 的简体中文本地化版本。",
+      "language": "Shell",
+      "stars_gained": 1,
       "rank": 27
     },
     {
-      "repo_url": "https://github.com/OpenBMB/VoxCPM",
-      "owner": "OpenBMB",
-      "name": "VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "stars_gained": 2,
+      "repo_url": "https://github.com/openai/symphony",
+      "owner": "openai",
+      "name": "symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "language": "Elixir",
+      "stars_gained": 1,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "owner": "MDX-Tom",
-      "name": "gpt-5.6-instruct",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "language": "Python",
+      "repo_url": "https://github.com/Open-Dev-Society/OpenStock",
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
       "stars_gained": 1,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/code-yeongyu/lazycodex",
-      "owner": "code-yeongyu",
-      "name": "lazycodex",
-      "description": "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.",
+      "repo_url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "stars_gained": 1,
       "rank": 30
