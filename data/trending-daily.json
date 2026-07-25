@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T13:15:05.315Z",
+  "fetched_at": "2026-07-25T12:57:49.362Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
@@ -25,7 +25,7 @@
       "repo_url": "https://github.com/diegosouzapw/OmniRoute",
       "owner": "diegosouzapw",
       "name": "OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "stars_gained": 6,
       "rank": 3
@@ -58,8 +58,8 @@
       "rank": 6
     },
     {
-      "repo_url": "https://github.com/hoainho/img2threejs",
-      "owner": "hoainho",
+      "repo_url": "https://github.com/img2threejs/img2threejs",
+      "owner": "img2threejs",
       "name": "img2threejs",
       "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
       "language": "Python",
