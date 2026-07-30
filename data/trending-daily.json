@@ -1,34 +1,25 @@
 {
-  "fetched_at": "2026-07-29T13:42:46.222Z",
+  "fetched_at": "2026-07-30T13:23:57.318Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
-    {
-      "repo_url": "https://github.com/diegosouzapw/OmniRoute",
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "stars_gained": 5,
-      "rank": 1
-    },
     {
       "repo_url": "https://github.com/virgiliojr94/book-to-skill",
       "owner": "virgiliojr94",
       "name": "book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_gained": 4,
-      "rank": 2
+      "stars_gained": 10,
+      "rank": 1
     },
     {
-      "repo_url": "https://github.com/usestrix/strix",
-      "owner": "usestrix",
-      "name": "strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_gained": 4,
-      "rank": 3
+      "repo_url": "https://github.com/stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_gained": 9,
+      "rank": 2
     },
     {
       "repo_url": "https://github.com/block/buzz",
@@ -37,15 +28,24 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "stars_gained": 4,
+      "rank": 3
+    },
+    {
+      "repo_url": "https://github.com/1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "description": "The most RAM effiecent harness",
+      "language": "Rust",
+      "stars_gained": 4,
       "rank": 4
     },
     {
-      "repo_url": "https://github.com/bradautomates/claude-video",
-      "owner": "bradautomates",
-      "name": "claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_gained": 3,
+      "repo_url": "https://github.com/opengeos/GeoLibre",
+      "owner": "opengeos",
+      "name": "GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars_gained": 4,
       "rank": 5
     },
     {
@@ -54,8 +54,170 @@
       "name": "editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars_gained": 3,
+      "stars_gained": 4,
       "rank": 6
+    },
+    {
+      "repo_url": "https://github.com/CoreBunch/Instatic",
+      "owner": "CoreBunch",
+      "name": "Instatic",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "language": "TypeScript",
+      "stars_gained": 4,
+      "rank": 7
+    },
+    {
+      "repo_url": "https://github.com/usestrix/strix",
+      "owner": "usestrix",
+      "name": "strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_gained": 4,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/different-ai/openwork",
+      "owner": "different-ai",
+      "name": "openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars_gained": 3,
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/bryanthaboi/gen1recomp",
+      "owner": "bryanthaboi",
+      "name": "gen1recomp",
+      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke ",
+      "language": "C",
+      "stars_gained": 3,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/unicity-aos/aos-ce",
+      "owner": "unicity-aos",
+      "name": "aos-ce",
+      "description": "AOS Community Edition: the open agent operating system.",
+      "language": "Rust",
+      "stars_gained": 2,
+      "rank": 11
+    },
+    {
+      "repo_url": "https://github.com/dramaclaw/dramaclaw",
+      "owner": "dramaclaw",
+      "name": "dramaclaw",
+      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 12
+    },
+    {
+      "repo_url": "https://github.com/NodePassProject/Nowhere",
+      "owner": "NodePassProject",
+      "name": "Nowhere",
+      "description": "Split-direction TLS / QUIC relay in Rust",
+      "language": "Rust",
+      "stars_gained": 2,
+      "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/meituan-longcat/LongCat-Video",
+      "owner": "meituan-longcat",
+      "name": "LongCat-Video",
+      "description": "",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_gained": 2,
+      "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/langchain-ai/openwiki",
+      "owner": "langchain-ai",
+      "name": "openwiki",
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 16
+    },
+    {
+      "repo_url": "https://github.com/UditAkhourii/adhd",
+      "owner": "UditAkhourii",
+      "name": "adhd",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 17
+    },
+    {
+      "repo_url": "https://github.com/Wei-Shaw/sub2api",
+      "owner": "Wei-Shaw",
+      "name": "sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "stars_gained": 2,
+      "rank": 18
+    },
+    {
+      "repo_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_gained": 2,
+      "rank": 19
+    },
+    {
+      "repo_url": "https://github.com/alibaba/open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_gained": 2,
+      "rank": 20
+    },
+    {
+      "repo_url": "https://github.com/agentscope-ai/QwenPaw",
+      "owner": "agentscope-ai",
+      "name": "QwenPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "language": "Python",
+      "stars_gained": 1,
+      "rank": 21
+    },
+    {
+      "repo_url": "https://github.com/JustVugg/colibri",
+      "owner": "JustVugg",
+      "name": "colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_gained": 2,
+      "rank": 22
+    },
+    {
+      "repo_url": "https://github.com/StarTrail-org/PixelRAG",
+      "owner": "StarTrail-org",
+      "name": "PixelRAG",
+      "description": "The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 23
+    },
+    {
+      "repo_url": "https://github.com/bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 24
     },
     {
       "repo_url": "https://github.com/emilkowalski/skills",
@@ -64,52 +226,7 @@
       "description": "Skills for Design Engineers.",
       "language": "",
       "stars_gained": 2,
-      "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/earthtojake/text-to-cad",
-      "owner": "earthtojake",
-      "name": "text-to-cad",
-      "description": "A collection of agent skills for CAD, robotics and hardware design",
-      "language": "JavaScript",
-      "stars_gained": 2,
-      "rank": 8
-    },
-    {
-      "repo_url": "https://github.com/m5stack/StackChan",
-      "owner": "m5stack",
-      "name": "StackChan",
-      "description": "StackChan open source!",
-      "language": "Go",
-      "stars_gained": 2,
-      "rank": 9
-    },
-    {
-      "repo_url": "https://github.com/heygen-com/hyperframes",
-      "owner": "heygen-com",
-      "name": "hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_gained": 2,
-      "rank": 10
-    },
-    {
-      "repo_url": "https://github.com/mauriceboe/TREK",
-      "owner": "mauriceboe",
-      "name": "TREK",
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "language": "TypeScript",
-      "stars_gained": 2,
-      "rank": 11
-    },
-    {
-      "repo_url": "https://github.com/OpenNSWM-Lab/FAROS",
-      "owner": "OpenNSWM-Lab",
-      "name": "FAROS",
-      "description": "A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper writing and peer review.",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 12
+      "rank": 25
     },
     {
       "repo_url": "https://github.com/img2threejs/img2threejs",
@@ -117,159 +234,42 @@
       "name": "img2threejs",
       "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
       "language": "Python",
-      "stars_gained": 2,
-      "rank": 13
-    },
-    {
-      "repo_url": "https://github.com/heygen-com/hyperframes-launches",
-      "owner": "heygen-com",
-      "name": "hyperframes-launches",
-      "description": "Open-source HyperFrames compositions behind HeyGen's product launch videos.",
-      "language": "HTML",
-      "stars_gained": 2,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/Neoexm/Shittim-Server",
-      "owner": "Neoexm",
-      "name": "Shittim-Server",
-      "description": "Blue Archive Private Server For Steam",
-      "language": "C#",
-      "stars_gained": 2,
-      "rank": 15
-    },
-    {
-      "repo_url": "https://github.com/andrewyng/openworker",
-      "owner": "andrewyng",
-      "name": "openworker",
-      "description": "",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/1jehuang/jcode",
-      "owner": "1jehuang",
-      "name": "jcode",
-      "description": "The most RAM effiecent harness",
-      "language": "Rust",
-      "stars_gained": 2,
-      "rank": 17
-    },
-    {
-      "repo_url": "https://github.com/bryanthaboi/gen1recomp",
-      "owner": "bryanthaboi",
-      "name": "gen1recomp",
-      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke ",
-      "language": "C",
-      "stars_gained": 2,
-      "rank": 18
-    },
-    {
-      "repo_url": "https://github.com/pingdotgg/t3code",
-      "owner": "pingdotgg",
-      "name": "t3code",
-      "description": "",
-      "language": "TypeScript",
-      "stars_gained": 1,
-      "rank": 19
-    },
-    {
-      "repo_url": "https://github.com/tuya/TuyaOpenClaw",
-      "owner": "tuya",
-      "name": "TuyaOpenClaw",
-      "description": "Edge-Hardware (SoC/MCU) oriented Claw🦞",
-      "language": "C",
-      "stars_gained": 1,
-      "rank": 20
-    },
-    {
-      "repo_url": "https://github.com/sndsh404/summer-2027-internships",
-      "owner": "sndsh404",
-      "name": "summer-2027-internships",
-      "description": "Summer 2027 and off-season tech internships in the US. Software, data and ML, hardware, quant, and product roles, updated regularly.",
-      "language": "",
-      "stars_gained": 1,
-      "rank": 21
-    },
-    {
-      "repo_url": "https://github.com/ZJUI-AI4H/Hulu-Med",
-      "owner": "ZJUI-AI4H",
-      "name": "Hulu-Med",
-      "description": "A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding",
-      "language": "Python",
-      "stars_gained": 1,
-      "rank": 22
-    },
-    {
-      "repo_url": "https://github.com/riba2534/feishu-cli",
-      "owner": "riba2534",
-      "name": "feishu-cli",
-      "description": "feishu-cli 是一个功能完整的飞书开放平台命令行工具。它将飞书文档、知识库、电子表格、消息、日历、任务等操作封装为简洁的命令行接口，核心能力是 Markdown ↔ 飞书文档双向无损转换。",
-      "language": "Go",
-      "stars_gained": 1,
-      "rank": 23
-    },
-    {
-      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
-      "owner": "Yuan1z0825",
-      "name": "nature-skills",
-      "description": "符合nature论文学术表达和科研绘图的Skill",
-      "language": "Python",
-      "stars_gained": 1,
-      "rank": 24
-    },
-    {
-      "repo_url": "https://github.com/browser-use/browser-harness",
-      "owner": "browser-use",
-      "name": "browser-harness",
-      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "language": "Python",
-      "stars_gained": 1,
-      "rank": 25
-    },
-    {
-      "repo_url": "https://github.com/chen2he/orange-cloud",
-      "owner": "chen2he",
-      "name": "orange-cloud",
-      "description": "Open-source native Cloudflare client for iPhone, iPad & Apple Watch — sign in with OAuth, no API tokens to paste. Native Android app (Kotlin/Compose) in development.",
-      "language": "Swift",
       "stars_gained": 1,
       "rank": 26
     },
     {
-      "repo_url": "https://github.com/moss-apps/Flick",
-      "owner": "moss-apps",
-      "name": "Flick",
-      "description": "Flick is a high-performance music player for Android that delivers bit-perfect audio through external USB DACs and amplifiers via a custom Rust-based UAC 2.0 implementation. It features a 31-band equalizer, automatic music library scanning with metadata extraction, gapless playback built with Flutter.",
-      "language": "Dart",
+      "repo_url": "https://github.com/Norman-bury/research-writing-skill",
+      "owner": "Norman-bury",
+      "name": "research-writing-skill",
+      "description": "科研写作助手 (Research Writing Assistant)",
+      "language": "Python",
       "stars_gained": 1,
       "rank": 27
     },
     {
-      "repo_url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-      "owner": "HeiGeAi",
-      "name": "heige-codex-skin-studio",
-      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-      "language": "JavaScript",
+      "repo_url": "https://github.com/guokaigdg/animal-island-ui",
+      "owner": "guokaigdg",
+      "name": "animal-island-ui",
+      "description": "Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面",
+      "language": "TypeScript",
       "stars_gained": 1,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/Open-Less/openless",
-      "owner": "Open-Less",
-      "name": "openless",
-      "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
-      "language": "Rust",
+      "repo_url": "https://github.com/vinvcn/mattpocock-skills-zh-CN",
+      "owner": "vinvcn",
+      "name": "mattpocock-skills-zh-CN",
+      "description": "这是 mattpocock/skills 的简体中文本地化版本。",
+      "language": "Shell",
       "stars_gained": 1,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/microsoft/agent-governance-toolkit",
-      "owner": "microsoft",
-      "name": "agent-governance-toolkit",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "language": "Python",
+      "repo_url": "https://github.com/QuackbackIO/quackback",
+      "owner": "QuackbackIO",
+      "name": "quackback",
+      "description": "Open source alternative to Canny, UserVoice, Productboard",
+      "language": "TypeScript",
       "stars_gained": 1,
       "rank": 30
     }
