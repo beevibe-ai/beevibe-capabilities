@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T13:23:58.262Z",
+  "fetched_at": "2026-07-31T13:28:15.465Z",
   "period": "monthly",
   "source": "oss-insight:past_month",
   "repos": [
@@ -9,7 +9,7 @@
       "name": "Wand-Enhancer",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
       "language": "C#",
-      "stars_gained": 88,
+      "stars_gained": 89,
       "rank": 1
     },
     {
@@ -18,7 +18,7 @@
       "name": "strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_gained": 261,
+      "stars_gained": 263,
       "rank": 2
     },
     {
@@ -27,8 +27,17 @@
       "name": "OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars_gained": 155,
+      "stars_gained": 156,
       "rank": 3
+    },
+    {
+      "repo_url": "https://github.com/stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_gained": 152,
+      "rank": 4
     },
     {
       "repo_url": "https://github.com/langchain-ai/openwiki",
@@ -37,15 +46,6 @@
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "language": "TypeScript",
       "stars_gained": 191,
-      "rank": 4
-    },
-    {
-      "repo_url": "https://github.com/stablyai/orca",
-      "owner": "stablyai",
-      "name": "orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
-      "stars_gained": 147,
       "rank": 5
     },
     {
@@ -54,7 +54,7 @@
       "name": "herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_gained": 149,
+      "stars_gained": 151,
       "rank": 6
     },
     {
@@ -67,13 +67,22 @@
       "rank": 7
     },
     {
+      "repo_url": "https://github.com/HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_gained": 123,
+      "rank": 8
+    },
+    {
       "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
       "owner": "DeusData",
       "name": "codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
       "stars_gained": 130,
-      "rank": 8
+      "rank": 9
     },
     {
       "repo_url": "https://github.com/JustVugg/colibri",
@@ -82,15 +91,6 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "stars_gained": 92,
-      "rank": 9
-    },
-    {
-      "repo_url": "https://github.com/HKUDS/Vibe-Trading",
-      "owner": "HKUDS",
-      "name": "Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars_gained": 122,
       "rank": 10
     },
     {
@@ -108,7 +108,7 @@
       "name": "meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
       "language": "Rust",
-      "stars_gained": 147,
+      "stars_gained": 148,
       "rank": 12
     },
     {
@@ -126,7 +126,7 @@
       "name": "daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_gained": 80,
+      "stars_gained": 81,
       "rank": 14
     },
     {
@@ -135,8 +135,17 @@
       "name": "exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars_gained": 110,
+      "stars_gained": 111,
       "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/block/buzz",
+      "owner": "block",
+      "name": "buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars_gained": 63,
+      "rank": 16
     },
     {
       "repo_url": "https://github.com/erincatto/box3d",
@@ -145,16 +154,25 @@
       "description": "Box3D is a 3D physics engine for games",
       "language": "C",
       "stars_gained": 127,
-      "rank": 16
+      "rank": 17
     },
     {
-      "repo_url": "https://github.com/block/buzz",
-      "owner": "block",
-      "name": "buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars_gained": 58,
-      "rank": 17
+      "repo_url": "https://github.com/jamiepine/voicebox",
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_gained": 95,
+      "rank": 18
+    },
+    {
+      "repo_url": "https://github.com/alibaba/page-agent",
+      "owner": "alibaba",
+      "name": "page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars_gained": 105,
+      "rank": 19
     },
     {
       "repo_url": "https://github.com/emilkowalski/skills",
@@ -163,7 +181,7 @@
       "description": "Skills for Design Engineers.",
       "language": "",
       "stars_gained": 81,
-      "rank": 18
+      "rank": 20
     },
     {
       "repo_url": "https://github.com/x4gKing/X4G",
@@ -171,26 +189,17 @@
       "name": "X4G",
       "description": "",
       "language": "Python",
-      "stars_gained": 43,
-      "rank": 19
-    },
-    {
-      "repo_url": "https://github.com/alibaba/page-agent",
-      "owner": "alibaba",
-      "name": "page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars_gained": 104,
-      "rank": 20
-    },
-    {
-      "repo_url": "https://github.com/jamiepine/voicebox",
-      "owner": "jamiepine",
-      "name": "voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_gained": 92,
+      "stars_gained": 42,
       "rank": 21
+    },
+    {
+      "repo_url": "https://github.com/bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_gained": 78,
+      "rank": 22
     },
     {
       "repo_url": "https://github.com/iOfficeAI/OfficeCLI",
@@ -198,8 +207,8 @@
       "name": "OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars_gained": 71,
-      "rank": 22
+      "stars_gained": 72,
+      "rank": 23
     },
     {
       "repo_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
@@ -208,15 +217,6 @@
       "description": "Codex Dream Skin",
       "language": "JavaScript",
       "stars_gained": 64,
-      "rank": 23
-    },
-    {
-      "repo_url": "https://github.com/bradautomates/claude-video",
-      "owner": "bradautomates",
-      "name": "claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_gained": 76,
       "rank": 24
     },
     {
@@ -238,12 +238,12 @@
       "rank": 26
     },
     {
-      "repo_url": "https://github.com/baidu/Unlimited-OCR",
-      "owner": "baidu",
-      "name": "Unlimited-OCR",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "repo_url": "https://github.com/hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
-      "stars_gained": 57,
+      "stars_gained": 73,
       "rank": 27
     },
     {
@@ -252,16 +252,16 @@
       "name": "ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_gained": 64,
+      "stars_gained": 65,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/hugohe3/ppt-master",
-      "owner": "hugohe3",
-      "name": "ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "repo_url": "https://github.com/baidu/Unlimited-OCR",
+      "owner": "baidu",
+      "name": "Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "language": "Python",
-      "stars_gained": 70,
+      "stars_gained": 57,
       "rank": 29
     },
     {
@@ -270,8 +270,26 @@
       "name": "openship",
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "stars_gained": 47,
+      "stars_gained": 48,
       "rank": 30
+    },
+    {
+      "repo_url": "https://github.com/andrewyng/openworker",
+      "owner": "andrewyng",
+      "name": "openworker",
+      "description": "",
+      "language": "Python",
+      "stars_gained": 41,
+      "rank": 31
+    },
+    {
+      "repo_url": "https://github.com/agentscope-ai/QwenPaw",
+      "owner": "agentscope-ai",
+      "name": "QwenPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "language": "Python",
+      "stars_gained": 49,
+      "rank": 32
     },
     {
       "repo_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
@@ -280,16 +298,16 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "stars_gained": 43,
-      "rank": 31
+      "rank": 33
     },
     {
-      "repo_url": "https://github.com/andrewyng/openworker",
-      "owner": "andrewyng",
-      "name": "openworker",
-      "description": "",
+      "repo_url": "https://github.com/virgiliojr94/book-to-skill",
+      "owner": "virgiliojr94",
+      "name": "book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_gained": 38,
-      "rank": 32
+      "stars_gained": 49,
+      "rank": 34
     },
     {
       "repo_url": "https://github.com/heygen-com/hyperframes",
@@ -298,16 +316,7 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "stars_gained": 53,
-      "rank": 33
-    },
-    {
-      "repo_url": "https://github.com/agentscope-ai/QwenPaw",
-      "owner": "agentscope-ai",
-      "name": "QwenPaw",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "language": "Python",
-      "stars_gained": 47,
-      "rank": 34
+      "rank": 35
     },
     {
       "repo_url": "https://github.com/browser-use/video-use",
@@ -316,15 +325,6 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "stars_gained": 67,
-      "rank": 35
-    },
-    {
-      "repo_url": "https://github.com/virgiliojr94/book-to-skill",
-      "owner": "virgiliojr94",
-      "name": "book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "stars_gained": 47,
       "rank": 36
     },
     {
@@ -355,30 +355,30 @@
       "rank": 39
     },
     {
+      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
+      "owner": "Yuan1z0825",
+      "name": "nature-skills",
+      "description": "符合nature论文学术表达和科研绘图的Skill",
+      "language": "Python",
+      "stars_gained": 53,
+      "rank": 40
+    },
+    {
       "repo_url": "https://github.com/elder-plinius/T3MP3ST",
       "owner": "elder-plinius",
       "name": "T3MP3ST",
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
       "stars_gained": 50,
-      "rank": 40
-    },
-    {
-      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
-      "owner": "Yuan1z0825",
-      "name": "nature-skills",
-      "description": "符合nature论文学术表达和科研绘图的Skill",
-      "language": "Python",
-      "stars_gained": 52,
       "rank": 41
     },
     {
-      "repo_url": "https://github.com/Yu9191/wloc",
-      "owner": "Yu9191",
-      "name": "wloc",
-      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-      "language": "JavaScript",
-      "stars_gained": 50,
+      "repo_url": "https://github.com/1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "description": "The most RAM effiecent harness",
+      "language": "Rust",
+      "stars_gained": 33,
       "rank": 42
     },
     {
@@ -387,8 +387,17 @@
       "name": "Instatic",
       "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
       "language": "TypeScript",
-      "stars_gained": 44,
+      "stars_gained": 45,
       "rank": 43
+    },
+    {
+      "repo_url": "https://github.com/Yu9191/wloc",
+      "owner": "Yu9191",
+      "name": "wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "language": "JavaScript",
+      "stars_gained": 50,
+      "rank": 44
     },
     {
       "repo_url": "https://github.com/makerspet/oomwoo",
@@ -397,7 +406,7 @@
       "description": "Open-source vacuum robot cleaner",
       "language": "Python",
       "stars_gained": 54,
-      "rank": 44
+      "rank": 45
     },
     {
       "repo_url": "https://github.com/Robbyant/lingbot-map",
@@ -406,16 +415,16 @@
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
       "stars_gained": 47,
-      "rank": 45
+      "rank": 46
     },
     {
       "repo_url": "https://github.com/Alishahryar1/free-claude-code",
       "owner": "Alishahryar1",
       "name": "free-claude-code",
-      "description": "Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)",
+      "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
       "language": "Python",
       "stars_gained": 45,
-      "rank": 46
+      "rank": 47
     },
     {
       "repo_url": "https://github.com/Wei-Shaw/sub2api",
@@ -423,17 +432,17 @@
       "name": "sub2api",
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
-      "stars_gained": 39,
-      "rank": 47
+      "stars_gained": 38,
+      "rank": 48
     },
     {
-      "repo_url": "https://github.com/1jehuang/jcode",
-      "owner": "1jehuang",
-      "name": "jcode",
-      "description": "The most RAM effiecent harness",
-      "language": "Rust",
-      "stars_gained": 31,
-      "rank": 48
+      "repo_url": "https://github.com/multica-ai/multica",
+      "owner": "multica-ai",
+      "name": "multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "Go",
+      "stars_gained": 39,
+      "rank": 49
     },
     {
       "repo_url": "https://github.com/can1357/oh-my-pi",
@@ -441,16 +450,7 @@
       "name": "oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars_gained": 41,
-      "rank": 49
-    },
-    {
-      "repo_url": "https://github.com/cobusgreyling/loop-engineering",
-      "owner": "cobusgreyling",
-      "name": "loop-engineering",
-      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-      "language": "JavaScript",
-      "stars_gained": 46,
+      "stars_gained": 42,
       "rank": 50
     }
   ]
