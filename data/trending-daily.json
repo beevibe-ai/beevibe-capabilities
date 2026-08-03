@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-02T12:55:18.635Z",
+  "fetched_at": "2026-08-03T14:12:32.143Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
     {
-      "repo_url": "https://github.com/firecrawl/pdf-inspector",
-      "owner": "firecrawl",
-      "name": "pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "language": "Rust",
-      "stars_gained": 10,
+      "repo_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_gained": 6,
       "rank": 1
     },
     {
@@ -18,35 +18,53 @@
       "name": "qm",
       "description": "Multiplayer agent harness for work",
       "language": "TypeScript",
-      "stars_gained": 6,
+      "stars_gained": 5,
       "rank": 2
     },
     {
-      "repo_url": "https://github.com/JustVugg/colibri",
-      "owner": "JustVugg",
-      "name": "colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "stars_gained": 4,
+      "repo_url": "https://github.com/baidu/Unlimited-OCR",
+      "owner": "baidu",
+      "name": "Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "language": "Python",
+      "stars_gained": 3,
       "rank": 3
     },
     {
-      "repo_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "owner": "bashalarmistalt",
-      "name": "decimen-optical-transfer",
-      "description": "",
+      "repo_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "stars_gained": 3,
       "rank": 4
     },
     {
-      "repo_url": "https://github.com/zhaoxuya520/reverse-skill",
-      "owner": "zhaoxuya520",
-      "name": "reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
+      "repo_url": "https://github.com/firecrawl/pdf-inspector",
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
       "stars_gained": 3,
       "rank": 5
+    },
+    {
+      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
+      "owner": "Yuan1z0825",
+      "name": "nature-skills",
+      "description": "符合nature论文学术表达和科研绘图的Skill",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 6
+    },
+    {
+      "repo_url": "https://github.com/huangruiteng/loopx",
+      "owner": "huangruiteng",
+      "name": "loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 7
     },
     {
       "repo_url": "https://github.com/andrewyng/openworker",
@@ -55,25 +73,88 @@
       "description": "",
       "language": "Python",
       "stars_gained": 2,
-      "rank": 6
-    },
-    {
-      "repo_url": "https://github.com/emilkowalski/skills",
-      "owner": "emilkowalski",
-      "name": "skills",
-      "description": "Skills for Design Engineers.",
-      "language": "",
-      "stars_gained": 3,
-      "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/mchughalex/skate3recomp",
-      "owner": "mchughalex",
-      "name": "skate3recomp",
-      "description": "",
-      "language": "C++",
-      "stars_gained": 2,
       "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/tirth8205/code-review-graph",
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/open-jarvis/OpenJarvis",
+      "owner": "open-jarvis",
+      "name": "OpenJarvis",
+      "description": "Personal AI, On Personal Devices",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/can1357/oh-my-pi",
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 11
+    },
+    {
+      "repo_url": "https://github.com/decolua/9router",
+      "owner": "decolua",
+      "name": "9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars_gained": 2,
+      "rank": 12
+    },
+    {
+      "repo_url": "https://github.com/calesthio/OpenMontage",
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_gained": 1,
+      "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/block/buzz",
+      "owner": "block",
+      "name": "buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars_gained": 2,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/callstack/agent-device",
+      "owner": "callstack",
+      "name": "agent-device",
+      "description": "CLI to control iOS and Android devices for AI agents",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/powerycy/goutoujunshi",
+      "owner": "powerycy",
+      "name": "goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "language": "Python",
+      "stars_gained": 2,
+      "rank": 16
+    },
+    {
+      "repo_url": "https://github.com/opengeos/GeoLibre",
+      "owner": "opengeos",
+      "name": "GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars_gained": 2,
+      "rank": 17
     },
     {
       "repo_url": "https://github.com/diegosouzapw/OmniRoute",
@@ -82,7 +163,7 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "stars_gained": 2,
-      "rank": 9
+      "rank": 18
     },
     {
       "repo_url": "https://github.com/antirez/ds4",
@@ -91,185 +172,104 @@
       "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
       "language": "C",
       "stars_gained": 2,
-      "rank": 10
-    },
-    {
-      "repo_url": "https://github.com/iOfficeAI/OfficeCLI",
-      "owner": "iOfficeAI",
-      "name": "OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_gained": 2,
-      "rank": 11
-    },
-    {
-      "repo_url": "https://github.com/rahmanef63/os-vps",
-      "owner": "rahmanef63",
-      "name": "os-vps",
-      "description": "A browser-based graphical shell & control plane for a Linux server you own — terminal, files, metrics & AI in one mobile-first pane.",
-      "language": "TypeScript",
-      "stars_gained": 1,
-      "rank": 12
-    },
-    {
-      "repo_url": "https://github.com/ayghri/i-have-adhd",
-      "owner": "ayghri",
-      "name": "i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 13
-    },
-    {
-      "repo_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "owner": "esengine",
-      "name": "DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "stars_gained": 2,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/NomaDamas/k-skill",
-      "owner": "NomaDamas",
-      "name": "k-skill",
-      "description": "한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...",
-      "language": "JavaScript",
-      "stars_gained": 2,
-      "rank": 15
-    },
-    {
-      "repo_url": "https://github.com/bryanthaboi/gen1recomp",
-      "owner": "bryanthaboi",
-      "name": "gen1recomp",
-      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke ",
-      "language": "C",
-      "stars_gained": 2,
-      "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/lidge-jun/opencodex",
-      "owner": "lidge-jun",
-      "name": "opencodex",
-      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
-      "language": "TypeScript",
-      "stars_gained": 2,
-      "rank": 17
-    },
-    {
-      "repo_url": "https://github.com/1jehuang/jcode",
-      "owner": "1jehuang",
-      "name": "jcode",
-      "description": "The most RAM effiecent harness",
-      "language": "Rust",
-      "stars_gained": 1,
-      "rank": 18
-    },
-    {
-      "repo_url": "https://github.com/github/gh-stack",
-      "owner": "github",
-      "name": "gh-stack",
-      "description": "GitHub Stacked PRs",
-      "language": "Go",
-      "stars_gained": 1,
       "rank": 19
     },
     {
-      "repo_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "repo_url": "https://github.com/virgiliojr94/book-to-skill",
+      "owner": "virgiliojr94",
+      "name": "book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_gained": 2,
+      "stars_gained": 1,
       "rank": 20
     },
     {
-      "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "owner": "ZhuLinsen",
-      "name": "daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
+      "repo_url": "https://github.com/Mekotofeuka/MTPROTO_FIX_By_MEKO",
+      "owner": "Mekotofeuka",
+      "name": "MTPROTO_FIX_By_MEKO",
+      "description": "Universal VPN and MTProto proxy installer & fix – one‑click setup of Telemt, MTG, Erlang and MTProtoZig. Solves iOS/Android/Desktop connection issues, includes SNI checker, Panels installer and config editor. Настраиваем MTProto прокси с за 1 минуту. 通用 VPN 和 MTProto 代理一键安装与修复工具。支持 Telemt、MTG、Erlang、MTProtoZig，解决 iOS/Android/Desktop 连接问题，内置 SNI 检测、",
+      "language": "Shell",
       "stars_gained": 1,
       "rank": 21
     },
     {
-      "repo_url": "https://github.com/cosmtrek/mindwalk",
-      "owner": "cosmtrek",
-      "name": "mindwalk",
-      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
-      "language": "Go",
+      "repo_url": "https://github.com/Orkas-AI/Orkas",
+      "owner": "Orkas-AI",
+      "name": "Orkas",
+      "description": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
+      "language": "TypeScript",
       "stars_gained": 2,
       "rank": 22
     },
     {
-      "repo_url": "https://github.com/visa/visa-vulnerability-agentic-harness",
-      "owner": "visa",
-      "name": "visa-vulnerability-agentic-harness",
-      "description": "Visa Vulnerability Agentic Harness",
-      "language": "Python",
+      "repo_url": "https://github.com/jgraph/drawio-mcp",
+      "owner": "jgraph",
+      "name": "drawio-mcp",
+      "description": "",
+      "language": "JavaScript",
       "stars_gained": 1,
       "rank": 23
     },
     {
-      "repo_url": "https://github.com/mudler/locate-anything.cpp",
-      "owner": "mudler",
-      "name": "locate-anything.cpp",
-      "description": "Port of Nvidia LocateAnything-3B on ggml",
-      "language": "C++",
+      "repo_url": "https://github.com/Imbad0202/academic-research-skills",
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
       "stars_gained": 1,
       "rank": 24
     },
     {
-      "repo_url": "https://github.com/Ch1rpy2613/Mirrai",
-      "owner": "Ch1rpy2613",
-      "name": "Mirrai",
-      "description": "",
-      "language": "TypeScript",
+      "repo_url": "https://github.com/adongwanai/AgentGuide",
+      "owner": "adongwanai",
+      "name": "AgentGuide",
+      "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+      "language": "HTML",
       "stars_gained": 1,
       "rank": 25
     },
     {
-      "repo_url": "https://github.com/AreevAI/flowcat",
-      "owner": "AreevAI",
-      "name": "flowcat",
-      "description": "Self-hosted native-Rust runtime for real-time voice agents. Own the stack: one binary in your own VPC or air-gapped, no hosted control plane. pipecat-compatible pipeline, in-process SIP/RTP, single-process call density. Apache-2.0.",
-      "language": "Rust",
+      "repo_url": "https://github.com/outsourc-e/hermes-workspace",
+      "owner": "outsourc-e",
+      "name": "hermes-workspace",
+      "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.",
+      "language": "JavaScript",
       "stars_gained": 1,
       "rank": 26
     },
     {
-      "repo_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
-      "owner": "BigPizzaV3",
-      "name": "CodexPlusPlus",
-      "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
-      "language": "Rust",
+      "repo_url": "https://github.com/digimata/parrot",
+      "owner": "digimata",
+      "name": "parrot",
+      "description": "Ultra-minimalist macOS dictation.",
+      "language": "Swift",
       "stars_gained": 1,
       "rank": 27
     },
     {
-      "repo_url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
-      "owner": "YouMind-OpenLab",
-      "name": "ai-image-prompts-skill",
-      "description": "AI Image Prompts — 10,000+ curated prompts for any model. Works with Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and more.",
-      "language": "TypeScript",
+      "repo_url": "https://github.com/amitshekhariitbhu/llm-internals",
+      "owner": "amitshekhariitbhu",
+      "name": "llm-internals",
+      "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
+      "language": "",
       "stars_gained": 1,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/KimYx0207/AI-Coding-Guide-Zh",
-      "owner": "KimYx0207",
-      "name": "AI-Coding-Guide-Zh",
-      "description": "Claude Code + OpenClaw + Codex 中文教程 | 39篇完整教程 + 1张速查卡 | 80万+内容量 | 1500+实操示例 | AI Coding / Agent 三线学习路径",
-      "language": "",
+      "repo_url": "https://github.com/frknkrc44/HMA-OSS",
+      "owner": "frknkrc44",
+      "name": "HMA-OSS",
+      "description": "A ROOT REQUIRED LSPosed/Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project.",
+      "language": "Kotlin",
       "stars_gained": 1,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/microsoft/SkillOpt",
-      "owner": "microsoft",
-      "name": "SkillOpt",
-      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
-      "language": "Python",
+      "repo_url": "https://github.com/xingwudao/xquant-learning",
+      "owner": "xingwudao",
+      "name": "xquant-learning",
+      "description": "",
+      "language": "Jupyter Notebook",
       "stars_gained": 1,
       "rank": 30
     }
