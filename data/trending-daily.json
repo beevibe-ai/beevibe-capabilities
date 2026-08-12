@@ -1,25 +1,70 @@
 {
-  "fetched_at": "2026-08-11T12:37:48.454Z",
+  "fetched_at": "2026-08-12T12:41:08.476Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
+    {
+      "repo_url": "https://github.com/spinabot/brigade",
+      "owner": "spinabot",
+      "name": "brigade",
+      "description": "Brigade — Your personal intelligence, built enterprise-grade",
+      "language": "TypeScript",
+      "stars_gained": 21,
+      "rank": 1
+    },
     {
       "repo_url": "https://github.com/cathrynlavery/diagram-design",
       "owner": "cathrynlavery",
       "name": "diagram-design",
       "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
-      "stars_gained": 9,
-      "rank": 1
+      "stars_gained": 19,
+      "rank": 2
     },
     {
-      "repo_url": "https://github.com/MiniMax-AI/MiniMax-H3",
-      "owner": "MiniMax-AI",
-      "name": "MiniMax-H3",
-      "description": "",
-      "language": "Python",
+      "repo_url": "https://github.com/stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
       "stars_gained": 9,
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "repo_url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "owner": "Zeejay0",
+      "name": "gathered-scenes-zine-skill",
+      "description": "",
+      "language": "",
+      "stars_gained": 7,
+      "rank": 4
+    },
+    {
+      "repo_url": "https://github.com/firecrawl/anydoc",
+      "owner": "firecrawl",
+      "name": "anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "language": "Rust",
+      "stars_gained": 6,
+      "rank": 5
+    },
+    {
+      "repo_url": "https://github.com/corsairdev/corsair",
+      "owner": "corsairdev",
+      "name": "corsair",
+      "description": "Your Agent's Integration Layer",
+      "language": "TypeScript",
+      "stars_gained": 8,
+      "rank": 6
+    },
+    {
+      "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_gained": 6,
+      "rank": 7
     },
     {
       "repo_url": "https://github.com/PrimeIntellect-ai/prime-agent",
@@ -27,8 +72,44 @@
       "name": "prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_gained": 8,
-      "rank": 3
+      "stars_gained": 5,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "owner": "MiniMax-AI",
+      "name": "MiniMax-H3",
+      "description": "",
+      "language": "Python",
+      "stars_gained": 7,
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "stars_gained": 5,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/herdrdev/herdr",
+      "owner": "herdrdev",
+      "name": "herdr",
+      "description": "the runtime your coding agents live on",
+      "language": "Rust",
+      "stars_gained": 5,
+      "rank": 11
+    },
+    {
+      "repo_url": "https://github.com/lidge-jun/opencodex",
+      "owner": "lidge-jun",
+      "name": "opencodex",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+      "language": "TypeScript",
+      "stars_gained": 4,
+      "rank": 12
     },
     {
       "repo_url": "https://github.com/HKUDS/DeepTutor",
@@ -36,17 +117,44 @@
       "name": "DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
-      "stars_gained": 5,
-      "rank": 4
+      "stars_gained": 4,
+      "rank": 13
     },
     {
-      "repo_url": "https://github.com/danielmiessler/LifeOS",
-      "owner": "danielmiessler",
-      "name": "LifeOS",
-      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "repo_url": "https://github.com/Nasiko-Labs/nasiko",
+      "owner": "Nasiko-Labs",
+      "name": "nasiko",
+      "description": "Developer Control Plane for your AI Agents",
+      "language": "Python",
+      "stars_gained": 3,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "owner": "ZzzLc0405",
+      "name": "photo-abstract-editorial",
+      "description": "",
+      "language": "",
+      "stars_gained": 4,
+      "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/aipoch/open-science",
+      "owner": "aipoch",
+      "name": "open-science",
+      "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
       "language": "TypeScript",
       "stars_gained": 4,
-      "rank": 5
+      "rank": 16
+    },
+    {
+      "repo_url": "https://github.com/openchamber/openchamber",
+      "owner": "openchamber",
+      "name": "openchamber",
+      "description": "Desktop and web interface for OpenCode AI agent",
+      "language": "TypeScript",
+      "stars_gained": 4,
+      "rank": 17
     },
     {
       "repo_url": "https://github.com/bojieli/ai-agent-book",
@@ -55,61 +163,25 @@
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "language": "Python",
       "stars_gained": 3,
-      "rank": 6
+      "rank": 18
     },
     {
-      "repo_url": "https://github.com/img2threejs/img2threejs",
-      "owner": "img2threejs",
-      "name": "img2threejs",
-      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/hugohe3/ppt-master",
-      "owner": "hugohe3",
-      "name": "ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 8
-    },
-    {
-      "repo_url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "owner": "elementalsouls",
-      "name": "Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "language": "Python",
-      "stars_gained": 4,
-      "rank": 9
-    },
-    {
-      "repo_url": "https://github.com/luongnv89/claude-howto",
-      "owner": "luongnv89",
-      "name": "claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 10
-    },
-    {
-      "repo_url": "https://github.com/melgarafael/DeskcommCRM",
-      "owner": "melgarafael",
-      "name": "DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "repo_url": "https://github.com/brightdata/cli",
+      "owner": "brightdata",
+      "name": "cli",
+      "description": "Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal.",
       "language": "TypeScript",
-      "stars_gained": 3,
-      "rank": 11
+      "stars_gained": 4,
+      "rank": 19
     },
     {
-      "repo_url": "https://github.com/firecrawl/anydoc",
-      "owner": "firecrawl",
-      "name": "anydoc",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "language": "Rust",
-      "stars_gained": 3,
-      "rank": 12
+      "repo_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_gained": 4,
+      "rank": 20
     },
     {
       "repo_url": "https://github.com/ayghri/i-have-adhd",
@@ -117,44 +189,53 @@
       "name": "i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_gained": 2,
-      "rank": 13
+      "stars_gained": 4,
+      "rank": 21
     },
     {
-      "repo_url": "https://github.com/open-city-ai/haidian",
-      "owner": "open-city-ai",
-      "name": "haidian",
-      "description": "",
-      "language": "HTML",
-      "stars_gained": 1,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/baidu/Unlimited-OCR",
-      "owner": "baidu",
-      "name": "Unlimited-OCR",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
+      "owner": "Yuan1z0825",
+      "name": "nature-skills",
+      "description": "符合nature论文学术表达和科研绘图的Skill",
       "language": "Python",
       "stars_gained": 3,
-      "rank": 15
+      "rank": 22
     },
     {
-      "repo_url": "https://github.com/pingdotgg/t3code",
-      "owner": "pingdotgg",
-      "name": "t3code",
-      "description": "",
-      "language": "TypeScript",
+      "repo_url": "https://github.com/coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
       "stars_gained": 3,
-      "rank": 16
+      "rank": 23
     },
     {
-      "repo_url": "https://github.com/Conway-Research/automaton",
-      "owner": "Conway-Research",
-      "name": "automaton",
-      "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
-      "language": "TypeScript",
+      "repo_url": "https://github.com/superdesigndev/tools-registry",
+      "owner": "superdesigndev",
+      "name": "tools-registry",
+      "description": "Shared Skill & Secret vault for your team and agents, without leaking keys. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars_gained": 3,
+      "rank": 24
+    },
+    {
+      "repo_url": "https://github.com/vorssaint/vorssaint-utils",
+      "owner": "vorssaint",
+      "name": "vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "language": "Swift",
       "stars_gained": 2,
-      "rank": 17
+      "rank": 25
+    },
+    {
+      "repo_url": "https://github.com/Imbad0202/academic-research-skills",
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars_gained": 3,
+      "rank": 26
     },
     {
       "repo_url": "https://github.com/block/buzz",
@@ -163,114 +244,33 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "stars_gained": 2,
-      "rank": 18
-    },
-    {
-      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
-      "owner": "Yuan1z0825",
-      "name": "nature-skills",
-      "description": "符合nature论文学术表达和科研绘图的Skill",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 19
-    },
-    {
-      "repo_url": "https://github.com/jnMetaCode/agency-agents-zh",
-      "owner": "jnMetaCode",
-      "name": "agency-agents-zh",
-      "description": "🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
-      "language": "Shell",
-      "stars_gained": 2,
-      "rank": 20
-    },
-    {
-      "repo_url": "https://github.com/karanb192/itr-wala",
-      "owner": "karanb192",
-      "name": "itr-wala",
-      "description": "File your Indian income tax return (ITR) from your terminal. Deterministic tax engine, both regimes, AY 2026-27. Claude Code / Codex / Gemini skill.",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 21
-    },
-    {
-      "repo_url": "https://github.com/cactus-compute/needle",
-      "owner": "cactus-compute",
-      "name": "needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "stars_gained": 2,
-      "rank": 22
-    },
-    {
-      "repo_url": "https://github.com/multica-ai/multica",
-      "owner": "multica-ai",
-      "name": "multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "Go",
-      "stars_gained": 2,
-      "rank": 23
-    },
-    {
-      "repo_url": "https://github.com/amap-cvlab/ABot-World",
-      "owner": "amap-cvlab",
-      "name": "ABot-World",
-      "description": "Infinite Interactive World Rollout on a Single Desktop GPU",
-      "language": "Python",
-      "stars_gained": 3,
-      "rank": 24
-    },
-    {
-      "repo_url": "https://github.com/perplexityai/numbat",
-      "owner": "perplexityai",
-      "name": "numbat",
-      "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-      "language": "Go",
-      "stars_gained": 2,
-      "rank": 25
-    },
-    {
-      "repo_url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "owner": "JCodesMore",
-      "name": "ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "language": "JavaScript",
-      "stars_gained": 2,
-      "rank": 26
-    },
-    {
-      "repo_url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
-      "owner": "ZzzLc0405",
-      "name": "photo-abstract-editorial",
-      "description": "",
-      "language": "",
-      "stars_gained": 2,
       "rank": 27
     },
     {
-      "repo_url": "https://github.com/johannesjo/parallel-code",
-      "owner": "johannesjo",
-      "name": "parallel-code",
-      "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree",
-      "language": "TypeScript",
+      "repo_url": "https://github.com/itsfatduck/optimizerDuck",
+      "owner": "itsfatduck",
+      "name": "optimizerDuck",
+      "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "language": "C#",
       "stars_gained": 2,
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/floci-io/floci",
-      "owner": "floci-io",
-      "name": "floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "language": "Java",
-      "stars_gained": 2,
+      "repo_url": "https://github.com/calesthio/OpenMontage",
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_gained": 3,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/vercel-labs/skills",
-      "owner": "vercel-labs",
-      "name": "skills",
-      "description": "The open agent skills tool - npx skills",
+      "repo_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_gained": 2,
+      "stars_gained": 3,
       "rank": 30
     }
   ]
