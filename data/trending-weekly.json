@@ -1,26 +1,8 @@
 {
-  "fetched_at": "2026-08-14T12:37:51.554Z",
+  "fetched_at": "2026-08-15T12:15:16.695Z",
   "period": "weekly",
   "source": "oss-insight:past_week",
   "repos": [
-    {
-      "repo_url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "owner": "PrimeIntellect-ai",
-      "name": "prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "stars_gained": 231,
-      "rank": 1
-    },
-    {
-      "repo_url": "https://github.com/firecrawl/anydoc",
-      "owner": "firecrawl",
-      "name": "anydoc",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "language": "Rust",
-      "stars_gained": 136,
-      "rank": 2
-    },
     {
       "repo_url": "https://github.com/cathrynlavery/diagram-design",
       "owner": "cathrynlavery",
@@ -28,16 +10,7 @@
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
       "stars_gained": 69,
-      "rank": 3
-    },
-    {
-      "repo_url": "https://github.com/diegosouzapw/OmniRoute",
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "stars_gained": 73,
-      "rank": 4
+      "rank": 1
     },
     {
       "repo_url": "https://github.com/guillaumemeyer/watermarks-remover",
@@ -45,8 +18,17 @@
       "name": "watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stars_gained": 38,
-      "rank": 5
+      "stars_gained": 45,
+      "rank": 2
+    },
+    {
+      "repo_url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_gained": 40,
+      "rank": 3
     },
     {
       "repo_url": "https://github.com/stablyai/orca",
@@ -54,26 +36,8 @@
       "name": "orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars_gained": 51,
-      "rank": 6
-    },
-    {
-      "repo_url": "https://github.com/block/buzz",
-      "owner": "block",
-      "name": "buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars_gained": 58,
-      "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/virgiliojr94/book-to-skill",
-      "owner": "virgiliojr94",
-      "name": "book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "stars_gained": 61,
-      "rank": 8
+      "stars_gained": 27,
+      "rank": 4
     },
     {
       "repo_url": "https://github.com/zhaoxuya520/reverse-skill",
@@ -81,152 +45,8 @@
       "name": "reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
-      "stars_gained": 53,
-      "rank": 9
-    },
-    {
-      "repo_url": "https://github.com/floci-io/floci",
-      "owner": "floci-io",
-      "name": "floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "language": "Java",
-      "stars_gained": 61,
-      "rank": 10
-    },
-    {
-      "repo_url": "https://github.com/brightdata/cli",
-      "owner": "brightdata",
-      "name": "cli",
-      "description": "Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal.",
-      "language": "TypeScript",
-      "stars_gained": 58,
-      "rank": 11
-    },
-    {
-      "repo_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "owner": "TencentCloud",
-      "name": "TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "stars_gained": 44,
-      "rank": 12
-    },
-    {
-      "repo_url": "https://github.com/MiniMax-AI/MiniMax-H3",
-      "owner": "MiniMax-AI",
-      "name": "MiniMax-H3",
-      "description": "",
-      "language": "Python",
-      "stars_gained": 42,
-      "rank": 13
-    },
-    {
-      "repo_url": "https://github.com/emilkowalski/skills",
-      "owner": "emilkowalski",
-      "name": "skills",
-      "description": "Skills for Design Engineers.",
-      "language": "",
-      "stars_gained": 43,
-      "rank": 14
-    },
-    {
-      "repo_url": "https://github.com/herdrdev/herdr",
-      "owner": "herdrdev",
-      "name": "herdr",
-      "description": "the runtime your coding agents live on",
-      "language": "Rust",
-      "stars_gained": 39,
-      "rank": 15
-    },
-    {
-      "repo_url": "https://github.com/cloudflare/cloudflare-os",
-      "owner": "cloudflare",
-      "name": "cloudflare-os",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "language": "TypeScript",
-      "stars_gained": 46,
-      "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/pranshuparmar/witr",
-      "owner": "pranshuparmar",
-      "name": "witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. ",
-      "language": "Go",
-      "stars_gained": 47,
-      "rank": 17
-    },
-    {
-      "repo_url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
-      "owner": "Zeejay0",
-      "name": "gathered-scenes-zine-skill",
-      "description": "",
-      "language": "",
-      "stars_gained": 30,
-      "rank": 18
-    },
-    {
-      "repo_url": "https://github.com/google/skills",
-      "owner": "google",
-      "name": "skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars_gained": 41,
-      "rank": 19
-    },
-    {
-      "repo_url": "https://github.com/hugohe3/ppt-master",
-      "owner": "hugohe3",
-      "name": "ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "language": "Python",
-      "stars_gained": 28,
-      "rank": 20
-    },
-    {
-      "repo_url": "https://github.com/ayghri/i-have-adhd",
-      "owner": "ayghri",
-      "name": "i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars_gained": 33,
-      "rank": 21
-    },
-    {
-      "repo_url": "https://github.com/talivia-group/talivia",
-      "owner": "talivia-group",
-      "name": "talivia",
-      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-      "language": "TypeScript",
-      "stars_gained": 41,
-      "rank": 22
-    },
-    {
-      "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "owner": "ZhuLinsen",
-      "name": "daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars_gained": 30,
-      "rank": 23
-    },
-    {
-      "repo_url": "https://github.com/bojieli/ai-agent-book",
-      "owner": "bojieli",
-      "name": "ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "language": "Python",
-      "stars_gained": 28,
-      "rank": 24
-    },
-    {
-      "repo_url": "https://github.com/ifixai-ai/iFixAi",
-      "owner": "ifixai-ai",
-      "name": "iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "language": "Python",
-      "stars_gained": 36,
-      "rank": 25
+      "stars_gained": 29,
+      "rank": 5
     },
     {
       "repo_url": "https://github.com/spinabot/brigade",
@@ -234,89 +54,26 @@
       "name": "brigade",
       "description": "Brigade — Your personal intelligence, built enterprise-grade",
       "language": "TypeScript",
-      "stars_gained": 21,
-      "rank": 26
-    },
-    {
-      "repo_url": "https://github.com/andrewyng/openworker",
-      "owner": "andrewyng",
-      "name": "openworker",
-      "description": "",
-      "language": "Python",
-      "stars_gained": 33,
-      "rank": 27
-    },
-    {
-      "repo_url": "https://github.com/corsairdev/corsair",
-      "owner": "corsairdev",
-      "name": "corsair",
-      "description": "Your Agent's Integration Layer",
-      "language": "TypeScript",
-      "stars_gained": 25,
-      "rank": 28
-    },
-    {
-      "repo_url": "https://github.com/every-app/open-seo",
-      "owner": "every-app",
-      "name": "open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
       "stars_gained": 22,
-      "rank": 29
+      "rank": 6
     },
     {
-      "repo_url": "https://github.com/iOfficeAI/OfficeCLI",
-      "owner": "iOfficeAI",
-      "name": "OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars_gained": 23,
-      "rank": 30
-    },
-    {
-      "repo_url": "https://github.com/HKUDS/DeepTutor",
-      "owner": "HKUDS",
-      "name": "DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "repo_url": "https://github.com/hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
-      "stars_gained": 21,
-      "rank": 31
+      "stars_gained": 20,
+      "rank": 7
     },
     {
-      "repo_url": "https://github.com/firecrawl/pdf-inspector",
-      "owner": "firecrawl",
-      "name": "pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "language": "Rust",
-      "stars_gained": 25,
-      "rank": 32
-    },
-    {
-      "repo_url": "https://github.com/k1tbyte/Wand-Enhancer",
-      "owner": "k1tbyte",
-      "name": "Wand-Enhancer",
-      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "language": "C#",
-      "stars_gained": 30,
-      "rank": 33
-    },
-    {
-      "repo_url": "https://github.com/yc-software/qm",
-      "owner": "yc-software",
-      "name": "qm",
-      "description": "Multiplayer agent harness for work",
+      "repo_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "owner": "anywhere-labs",
+      "name": "deepseek-harness-desktop",
+      "description": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。",
       "language": "TypeScript",
-      "stars_gained": 19,
-      "rank": 34
-    },
-    {
-      "repo_url": "https://github.com/trycompai/crm",
-      "owner": "trycompai",
-      "name": "crm",
-      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-      "language": "TypeScript",
-      "stars_gained": 21,
-      "rank": 35
+      "stars_gained": 16,
+      "rank": 8
     },
     {
       "repo_url": "https://github.com/arvin341az-glitch/RVG",
@@ -324,89 +81,89 @@
       "name": "RVG",
       "description": "",
       "language": "Python",
-      "stars_gained": 5,
-      "rank": 36
+      "stars_gained": 4,
+      "rank": 9
     },
     {
-      "repo_url": "https://github.com/huangruiteng/loopx",
-      "owner": "huangruiteng",
-      "name": "loopx",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "repo_url": "https://github.com/firecrawl/anydoc",
+      "owner": "firecrawl",
+      "name": "anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "language": "Rust",
+      "stars_gained": 21,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "owner": "MiniMax-AI",
+      "name": "MiniMax-H3",
+      "description": "",
       "language": "Python",
       "stars_gained": 21,
-      "rank": 37
+      "rank": 11
     },
     {
-      "repo_url": "https://github.com/tt-a1i/archify",
-      "owner": "tt-a1i",
-      "name": "archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "HTML",
-      "stars_gained": 24,
-      "rank": 38
+      "repo_url": "https://github.com/HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars_gained": 17,
+      "rank": 12
     },
     {
-      "repo_url": "https://github.com/openchamber/openchamber",
-      "owner": "openchamber",
-      "name": "openchamber",
-      "description": "Desktop and web interface for OpenCode AI agent",
+      "repo_url": "https://github.com/herdrdev/herdr",
+      "owner": "herdrdev",
+      "name": "herdr",
+      "description": "the runtime your coding agents live on",
+      "language": "Rust",
+      "stars_gained": 18,
+      "rank": 13
+    },
+    {
+      "repo_url": "https://github.com/block/buzz",
+      "owner": "block",
+      "name": "buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars_gained": 13,
+      "rank": 14
+    },
+    {
+      "repo_url": "https://github.com/corsairdev/corsair",
+      "owner": "corsairdev",
+      "name": "corsair",
+      "description": "Your Agent's Integration Layer",
       "language": "TypeScript",
-      "stars_gained": 23,
-      "rank": 39
+      "stars_gained": 18,
+      "rank": 15
     },
     {
-      "repo_url": "https://github.com/alibaba/open-code-review",
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_gained": 19,
-      "rank": 40
-    },
-    {
-      "repo_url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
-      "owner": "ZzzLc0405",
-      "name": "photo-abstract-editorial",
+      "repo_url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "owner": "Zeejay0",
+      "name": "gathered-scenes-zine-skill",
       "description": "",
       "language": "",
-      "stars_gained": 18,
-      "rank": 41
+      "stars_gained": 13,
+      "rank": 16
     },
     {
-      "repo_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "owner": "esengine",
-      "name": "DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "stars_gained": 23,
-      "rank": 42
-    },
-    {
-      "repo_url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "owner": "Vincentwei1021",
-      "name": "video-shotcraft",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+      "repo_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "stars_gained": 23,
-      "rank": 43
+      "stars_gained": 16,
+      "rank": 17
     },
     {
-      "repo_url": "https://github.com/langchain-ai/openwiki",
-      "owner": "langchain-ai",
-      "name": "openwiki",
-      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-      "language": "TypeScript",
-      "stars_gained": 22,
-      "rank": 44
-    },
-    {
-      "repo_url": "https://github.com/Devin-AXIS/iPolloWork",
-      "owner": "Devin-AXIS",
-      "name": "iPolloWork",
-      "description": "Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint.",
+      "repo_url": "https://github.com/every-app/open-seo",
+      "owner": "every-app",
+      "name": "open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "stars_gained": 13,
-      "rank": 45
+      "rank": 18
     },
     {
       "repo_url": "https://github.com/SMNETSTUDIO/WeChat-AI",
@@ -415,7 +172,214 @@
       "description": "",
       "language": "TypeScript",
       "stars_gained": 12,
-      "rank": 46
+      "rank": 19
+    },
+    {
+      "repo_url": "https://github.com/cactus-compute/needle",
+      "owner": "cactus-compute",
+      "name": "needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars_gained": 12,
+      "rank": 20
+    },
+    {
+      "repo_url": "https://github.com/bojieli/ai-agent-book",
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_gained": 12,
+      "rank": 21
+    },
+    {
+      "repo_url": "https://github.com/emilkowalski/skills",
+      "owner": "emilkowalski",
+      "name": "skills",
+      "description": "Skills for Design Engineers.",
+      "language": "",
+      "stars_gained": 14,
+      "rank": 22
+    },
+    {
+      "repo_url": "https://github.com/yc-software/qm",
+      "owner": "yc-software",
+      "name": "qm",
+      "description": "Multiplayer agent harness for work",
+      "language": "TypeScript",
+      "stars_gained": 10,
+      "rank": 23
+    },
+    {
+      "repo_url": "https://github.com/titanwings/colleague-skill",
+      "owner": "titanwings",
+      "name": "colleague-skill",
+      "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+      "language": "Python",
+      "stars_gained": 10,
+      "rank": 24
+    },
+    {
+      "repo_url": "https://github.com/macro-inc/macro",
+      "owner": "macro-inc",
+      "name": "macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars_gained": 9,
+      "rank": 25
+    },
+    {
+      "repo_url": "https://github.com/ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars_gained": 14,
+      "rank": 26
+    },
+    {
+      "repo_url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "owner": "ZzzLc0405",
+      "name": "photo-abstract-editorial",
+      "description": "",
+      "language": "",
+      "stars_gained": 12,
+      "rank": 27
+    },
+    {
+      "repo_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_gained": 11,
+      "rank": 28
+    },
+    {
+      "repo_url": "https://github.com/Devin-AXIS/iPolloWork",
+      "owner": "Devin-AXIS",
+      "name": "iPolloWork",
+      "description": "Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent workspace for code, office work, editable design, presentations, websites, and video. Build with AI, then edit text, images, colors, layouts, and scenes as easily as PowerPoint.",
+      "language": "TypeScript",
+      "stars_gained": 9,
+      "rank": 29
+    },
+    {
+      "repo_url": "https://github.com/pathwaycom/arc-task-gen",
+      "owner": "pathwaycom",
+      "name": "arc-task-gen",
+      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "language": "Python",
+      "stars_gained": 10,
+      "rank": 30
+    },
+    {
+      "repo_url": "https://github.com/diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars_gained": 11,
+      "rank": 31
+    },
+    {
+      "repo_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_gained": 7,
+      "rank": 32
+    },
+    {
+      "repo_url": "https://github.com/alibaba/open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_gained": 10,
+      "rank": 33
+    },
+    {
+      "repo_url": "https://github.com/img2threejs/img2threejs",
+      "owner": "img2threejs",
+      "name": "img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "language": "Python",
+      "stars_gained": 8,
+      "rank": 34
+    },
+    {
+      "repo_url": "https://github.com/holaboss-ai/holaOS",
+      "owner": "holaboss-ai",
+      "name": "holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "language": "TypeScript",
+      "stars_gained": 6,
+      "rank": 35
+    },
+    {
+      "repo_url": "https://github.com/multica-ai/multica",
+      "owner": "multica-ai",
+      "name": "multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "Go",
+      "stars_gained": 8,
+      "rank": 36
+    },
+    {
+      "repo_url": "https://github.com/lightningpixel/modly",
+      "owner": "lightningpixel",
+      "name": "modly",
+      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "language": "TypeScript",
+      "stars_gained": 8,
+      "rank": 37
+    },
+    {
+      "repo_url": "https://github.com/tt-a1i/archify",
+      "owner": "tt-a1i",
+      "name": "archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "HTML",
+      "stars_gained": 8,
+      "rank": 38
+    },
+    {
+      "repo_url": "https://github.com/Yuan1z0825/nature-skills",
+      "owner": "Yuan1z0825",
+      "name": "nature-skills",
+      "description": "符合nature论文学术表达和科研绘图的Skill",
+      "language": "Python",
+      "stars_gained": 8,
+      "rank": 39
+    },
+    {
+      "repo_url": "https://github.com/virgiliojr94/book-to-skill",
+      "owner": "virgiliojr94",
+      "name": "book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars_gained": 9,
+      "rank": 40
+    },
+    {
+      "repo_url": "https://github.com/vercel-labs/deepsec",
+      "owner": "vercel-labs",
+      "name": "deepsec",
+      "description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
+      "language": "TypeScript",
+      "stars_gained": 7,
+      "rank": 41
+    },
+    {
+      "repo_url": "https://github.com/brightdata/cli",
+      "owner": "brightdata",
+      "name": "cli",
+      "description": "Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal.",
+      "language": "TypeScript",
+      "stars_gained": 9,
+      "rank": 42
     },
     {
       "repo_url": "https://github.com/pingdotgg/t3code",
@@ -423,8 +387,8 @@
       "name": "t3code",
       "description": "",
       "language": "TypeScript",
-      "stars_gained": 16,
-      "rank": 47
+      "stars_gained": 7,
+      "rank": 43
     },
     {
       "repo_url": "https://github.com/JustVugg/colibri",
@@ -432,25 +396,61 @@
       "name": "colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
-      "stars_gained": 16,
+      "stars_gained": 7,
+      "rank": 44
+    },
+    {
+      "repo_url": "https://github.com/oil-oil/oil-motion",
+      "owner": "oil-oil",
+      "name": "oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stars_gained": 10,
+      "rank": 45
+    },
+    {
+      "repo_url": "https://github.com/baidu/Unlimited-OCR",
+      "owner": "baidu",
+      "name": "Unlimited-OCR",
+      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "language": "Python",
+      "stars_gained": 10,
+      "rank": 46
+    },
+    {
+      "repo_url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
+      "owner": "MatrAIx-ai",
+      "name": "MatrAIx-Persona-8B",
+      "description": "Simulate Before Reality. ",
+      "language": "Python",
+      "stars_gained": 8,
+      "rank": 47
+    },
+    {
+      "repo_url": "https://github.com/huangruiteng/loopx",
+      "owner": "huangruiteng",
+      "name": "loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars_gained": 7,
       "rank": 48
     },
     {
-      "repo_url": "https://github.com/open-city-ai/haidian",
-      "owner": "open-city-ai",
-      "name": "haidian",
-      "description": "",
-      "language": "HTML",
-      "stars_gained": 9,
+      "repo_url": "https://github.com/calesthio/OpenMontage",
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_gained": 7,
       "rank": 49
     },
     {
-      "repo_url": "https://github.com/emiliaprotocol/emilia-protocol",
-      "owner": "emiliaprotocol",
-      "name": "emilia-protocol",
-      "description": "Consequence firewall for machine actions. EMILIA Gate verifies exact authority before money, code, permissions, infrastructure, or regulated state changes; the open protocol makes the evidence independently verifiable.",
+      "repo_url": "https://github.com/lidge-jun/opencodex",
+      "owner": "lidge-jun",
+      "name": "opencodex",
+      "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "language": "TypeScript",
-      "stars_gained": 25,
+      "stars_gained": 7,
       "rank": 50
     }
   ]
