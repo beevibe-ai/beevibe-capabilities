@@ -1,33 +1,33 @@
 {
-  "fetched_at": "2026-08-28T21:34:23.958Z",
+  "fetched_at": "2026-08-29T15:53:46.848Z",
   "period": "daily",
   "source": "oss-insight:past_24_hours",
   "repos": [
-    {
-      "repo_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "owner": "bilawalsidhu",
-      "name": "gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars_gained": 28,
-      "rank": 1
-    },
     {
       "repo_url": "https://github.com/tt-a1i/archify",
       "owner": "tt-a1i",
       "name": "archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "HTML",
-      "stars_gained": 33,
+      "stars_gained": 34,
+      "rank": 1
+    },
+    {
+      "repo_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars_gained": 11,
       "rank": 2
     },
     {
-      "repo_url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "owner": "freestylefly",
-      "name": "awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "language": "JavaScript",
-      "stars_gained": 12,
+      "repo_url": "https://github.com/diffusionstudio/editor",
+      "owner": "diffusionstudio",
+      "name": "editor",
+      "description": "Turn your agent into a professional video editor",
+      "language": "TypeScript",
+      "stars_gained": 8,
       "rank": 3
     },
     {
@@ -36,80 +36,35 @@
       "name": "jiuwenswarm",
       "description": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
       "language": "Python",
-      "stars_gained": 12,
+      "stars_gained": 7,
       "rank": 4
     },
     {
-      "repo_url": "https://github.com/stablyai/orca",
-      "owner": "stablyai",
-      "name": "orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "repo_url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "owner": "miuuyy",
+      "name": "codex-chatgpt-web",
+      "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
       "language": "TypeScript",
-      "stars_gained": 11,
+      "stars_gained": 6,
       "rank": 5
     },
     {
-      "repo_url": "https://github.com/pathwaycom/arc-task-gen",
-      "owner": "pathwaycom",
-      "name": "arc-task-gen",
-      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
-      "language": "Python",
-      "stars_gained": 8,
+      "repo_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars_gained": 6,
       "rank": 6
     },
     {
-      "repo_url": "https://github.com/calesthio/OpenMontage",
-      "owner": "calesthio",
-      "name": "OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
+      "repo_url": "https://github.com/cursor/plugins",
+      "owner": "cursor",
+      "name": "plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
       "stars_gained": 5,
       "rank": 7
-    },
-    {
-      "repo_url": "https://github.com/workweave/router",
-      "owner": "workweave",
-      "name": "router",
-      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-      "language": "Go",
-      "stars_gained": 5,
-      "rank": 8
-    },
-    {
-      "repo_url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "owner": "AgriciDaniel",
-      "name": "claude-obsidian",
-      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "language": "Python",
-      "stars_gained": 5,
-      "rank": 9
-    },
-    {
-      "repo_url": "https://github.com/MadsLorentzen/ai-job-search",
-      "owner": "MadsLorentzen",
-      "name": "ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "Python",
-      "stars_gained": 6,
-      "rank": 10
-    },
-    {
-      "repo_url": "https://github.com/firecrawl/anydoc",
-      "owner": "firecrawl",
-      "name": "anydoc",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "language": "Rust",
-      "stars_gained": 4,
-      "rank": 11
-    },
-    {
-      "repo_url": "https://github.com/Tencent/WeMM-Embedding",
-      "owner": "Tencent",
-      "name": "WeMM-Embedding",
-      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-      "language": "Python",
-      "stars_gained": 5,
-      "rank": 12
     },
     {
       "repo_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
@@ -117,16 +72,61 @@
       "name": "deepseek-harness-desktop",
       "description": "基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。",
       "language": "TypeScript",
-      "stars_gained": 4,
+      "stars_gained": 6,
+      "rank": 8
+    },
+    {
+      "repo_url": "https://github.com/calesthio/OpenMontage",
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_gained": 6,
+      "rank": 9
+    },
+    {
+      "repo_url": "https://github.com/Gaoshu705/QzoneArchive",
+      "owner": "Gaoshu705",
+      "name": "QzoneArchive",
+      "description": "将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。",
+      "language": "Rust",
+      "stars_gained": 5,
+      "rank": 10
+    },
+    {
+      "repo_url": "https://github.com/sapientinc/PRAXIST",
+      "owner": "sapientinc",
+      "name": "PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "language": "Python",
+      "stars_gained": 5,
+      "rank": 11
+    },
+    {
+      "repo_url": "https://github.com/Lakr233/vphone-cli",
+      "owner": "Lakr233",
+      "name": "vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "stars_gained": 5,
+      "rank": 12
+    },
+    {
+      "repo_url": "https://github.com/openTrinity/mycontext",
+      "owner": "openTrinity",
+      "name": "mycontext",
+      "description": "MyContext is a local-first desktop app for everyday communication and knowledge work",
+      "language": "TypeScript",
+      "stars_gained": 6,
       "rank": 13
     },
     {
-      "repo_url": "https://github.com/experientiallabs/experiential",
-      "owner": "experientiallabs",
-      "name": "experiential",
-      "description": "An open source model gateway that provides one control plane across closed, open-source, local, and custom models.",
-      "language": "Python",
-      "stars_gained": 4,
+      "repo_url": "https://github.com/stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_gained": 5,
       "rank": 14
     },
     {
@@ -135,8 +135,26 @@
       "name": "freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars_gained": 5,
+      "stars_gained": 4,
       "rank": 15
+    },
+    {
+      "repo_url": "https://github.com/every-app/open-seo",
+      "owner": "every-app",
+      "name": "open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_gained": 5,
+      "rank": 16
+    },
+    {
+      "repo_url": "https://github.com/andrewyng/openworker",
+      "owner": "andrewyng",
+      "name": "openworker",
+      "description": "",
+      "language": "Python",
+      "stars_gained": 4,
+      "rank": 17
     },
     {
       "repo_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
@@ -144,60 +162,42 @@
       "name": "ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_gained": 5,
-      "rank": 16
-    },
-    {
-      "repo_url": "https://github.com/cathrynlavery/diagram-design",
-      "owner": "cathrynlavery",
-      "name": "diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars_gained": 5,
-      "rank": 17
-    },
-    {
-      "repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "owner": "K-Dense-AI",
-      "name": "scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
       "stars_gained": 4,
       "rank": 18
     },
     {
-      "repo_url": "https://github.com/t8y2/dbx",
-      "owner": "t8y2",
-      "name": "dbx",
-      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
-      "language": "Rust",
+      "repo_url": "https://github.com/vorssaintapp/vorssaint-utils",
+      "owner": "vorssaintapp",
+      "name": "vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "language": "Swift",
       "stars_gained": 4,
       "rank": 19
     },
     {
-      "repo_url": "https://github.com/Lakr233/vphone-cli",
-      "owner": "Lakr233",
-      "name": "vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "stars_gained": 4,
+      "repo_url": "https://github.com/THU-MAIC/OpenMAIC",
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars_gained": 5,
       "rank": 20
     },
     {
-      "repo_url": "https://github.com/SpaceZephyr/creator-buddy",
-      "owner": "SpaceZephyr",
-      "name": "creator-buddy",
-      "description": "Creator Buddy: orchestrated Agent Skills for cross-platform content search, creator analysis, and viral trend research",
+      "repo_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "stars_gained": 4,
       "rank": 21
     },
     {
-      "repo_url": "https://github.com/Untrivial-ai/agent-orchestrator",
-      "owner": "Untrivial-ai",
-      "name": "agent-orchestrator",
-      "description": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
-      "language": "Go",
+      "repo_url": "https://github.com/p-e-w/heretic",
+      "owner": "p-e-w",
+      "name": "heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
       "stars_gained": 3,
       "rank": 22
     },
@@ -207,43 +207,43 @@
       "name": "book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_gained": 3,
+      "stars_gained": 4,
       "rank": 23
     },
     {
-      "repo_url": "https://github.com/can1357/oh-my-pi",
-      "owner": "can1357",
-      "name": "oh-my-pi",
-      "description": "⌥ Coding agent with the IDE wired in",
+      "repo_url": "https://github.com/agentconnect-md/agentconnect",
+      "owner": "agentconnect-md",
+      "name": "agentconnect",
+      "description": "Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go.",
       "language": "TypeScript",
-      "stars_gained": 3,
+      "stars_gained": 4,
       "rank": 24
     },
     {
-      "repo_url": "https://github.com/harbor-framework/terminal-bench-science",
-      "owner": "harbor-framework",
-      "name": "terminal-bench-science",
-      "description": "Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
-      "language": "Python",
-      "stars_gained": 3,
+      "repo_url": "https://github.com/daimon3332/address",
+      "owner": "daimon3332",
+      "name": "address",
+      "description": "A self-hosted address and synthetic test-profile generator for 27 countries and regions, built from real open-data streets, administrative areas, coordinates, and postcodes. Supports multilingual output, IP-nearby generation, map previews, and API access. 基于真实开放数据的自托管地址与合成测试资料生成器，覆盖 27 个国家和地区，支持多语言地址、IP 附近生成、地图预览与 API 调用",
+      "language": "TypeScript",
+      "stars_gained": 4,
       "rank": 25
     },
     {
-      "repo_url": "https://github.com/vorssaintapp/vorssaint-utils",
-      "owner": "vorssaintapp",
-      "name": "vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "language": "Swift",
-      "stars_gained": 3,
+      "repo_url": "https://github.com/pathwaycom/arc-task-gen",
+      "owner": "pathwaycom",
+      "name": "arc-task-gen",
+      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "language": "Python",
+      "stars_gained": 4,
       "rank": 26
     },
     {
-      "repo_url": "https://github.com/Hisn00w/ASu-skills",
-      "owner": "Hisn00w",
-      "name": "ASu-skills",
-      "description": "简历包装",
-      "language": "HTML",
-      "stars_gained": 4,
+      "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars_gained": 3,
       "rank": 27
     },
     {
@@ -256,20 +256,20 @@
       "rank": 28
     },
     {
-      "repo_url": "https://github.com/herdrdev/herdr",
-      "owner": "herdrdev",
-      "name": "herdr",
-      "description": "the runtime your coding agents live on",
-      "language": "Rust",
-      "stars_gained": 3,
+      "repo_url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "owner": "conorbronsdon",
+      "name": "avoid-ai-writing",
+      "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+      "language": "JavaScript",
+      "stars_gained": 2,
       "rank": 29
     },
     {
-      "repo_url": "https://github.com/multica-ai/multica",
-      "owner": "multica-ai",
-      "name": "multica",
-      "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
-      "language": "Go",
+      "repo_url": "https://github.com/Tencent/WeMM-Embedding",
+      "owner": "Tencent",
+      "name": "WeMM-Embedding",
+      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+      "language": "Python",
       "stars_gained": 2,
       "rank": 30
     }
